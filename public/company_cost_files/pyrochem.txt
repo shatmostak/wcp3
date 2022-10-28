@@ -1,0 +1,649 @@
+Date Printed :4/28/2022 7:43:14 PM										
+										
+Effective 28-APR-22                                         										
+										
+Note:Price amounts shown are in US$										
+										
+PriceList	Category	PartNbr	Part Description	Weight	LeadTime	ListPrice	NetPrice	ReplPartNbr	ReplPartDesc	OrderMultiple
+										
+KITCHEN KNIGHT II Systems	Cylinders (UL)	553163	"PCL-160 Agent Cylinder Assembly, 1.6 Gal."	35	Call	546.5	273.25			
+KITCHEN KNIGHT II Systems	Cylinders (UL)	551194	"PCL-300 Agent Cylinder Assembly, 3.0 Gal."	60	Call	784.5	392.25			
+KITCHEN KNIGHT II Systems	Cylinders (UL)	551193	"PCL-460 Agent Cylinder Assembly, SB 4.6 Gal."	89	Call	1108	554			
+KITCHEN KNIGHT II Systems	Cylinders (UL)	551196	"PCL-600 Agent Cylinder Assembly, 6.0 Gal."	110.8	Call	1424	712			
+KITCHEN KNIGHT II Systems	Cylinders (UL)	550104	PAC-10 Pneumatic Actuating Cylinder	9	Call	759.5	379.75			
+KITCHEN KNIGHT II Systems	Cylinders (UL)	551559	PAC-10-PS Pneumatic Actuating Cylinder w/Pressure Switch	9	Call	958.5	479.25			
+KITCHEN KNIGHT II Systems	Cylinders (ULC)	551195	"PCL-300 Agent Cylinder Assembly, SB 3.0  Gal."	59.5	Call	784.5	392.25			
+KITCHEN KNIGHT II Systems	Cylinders (ULC)	551192	"PCL-460 Agent Cylinder Assembly, 4.6 Gal."	88.9	Call	1108	554			
+KITCHEN KNIGHT II Systems	Cylinders (ULC)	551197	"PCL-600 Agent Cylinder Assembly, 6.0 Gal."	110.8	Call	1424	712			
+KITCHEN KNIGHT II Systems	Cylinders (ULC)	551125	PAC-10 Pneumatic Actuating Cylinder	9	Call	757	378.5			
+KITCHEN KNIGHT II Systems	Brackets/Enclosures/Straps	550053	MB-1 Cylinder Mounting Bracket	5	Call	132.5	66.25			
+KITCHEN KNIGHT II Systems	Brackets/Enclosures/Straps	550054	MB-15 Cylinder Mounting Bracket	3.7	Call	120	60			
+KITCHEN KNIGHT II Systems	Brackets/Enclosures/Straps	551208	EN-MCU Enclosure with Mechanical Control Unit	28.4	Call	889	444.5			
+KITCHEN KNIGHT II Systems	Brackets/Enclosures/Straps	550966	EN-S Enclosure for Secondary Cylinders	28	Call	601	300.5			
+KITCHEN KNIGHT II Systems	Brackets/Enclosures/Straps	550641	PAC 10 Quick Release Strap	0.5	Call	15.25	7.63			
+KITCHEN KNIGHT II Systems	Brackets/Enclosures/Straps	550746	MB Bracket Quick Release Strap	0.25	Call	21.75	10.88			
+KITCHEN KNIGHT II Systems	Control Heads	551203	"NMCH Control Head, Mechanical, No Local Actuation"	6	Call	528	264			
+KITCHEN KNIGHT II Systems	Control Heads	550101	NMCH Cover Assembly Replacement	0.4	Call	42.75	21.38			
+KITCHEN KNIGHT II Systems	Control Heads	551204	"NMCH-DPT Control Head w/Switch, Mechanical, No Local Actuation"	6.1	Call	631	315.5			
+KITCHEN KNIGHT II Systems	Control Heads	551200	"MCH Control Head, Mechanical, with Local Actuation"	6.1	Call	548.5	274.25			
+KITCHEN KNIGHT II Systems	Control Heads	551201	"ECH-24 Control Head, Electrical, 24VDC, with Local Actuation"	7	Call	726	363			
+KITCHEN KNIGHT II Systems	Control Heads	551202	"ECH-120 Control Head, Electrical, 120VAC, with Local Actuation"	7	Call	832	416			
+KITCHEN KNIGHT II Systems	Control Heads	551206	"NECH-24V Control Head, Electrical, 24VDC, No Local Actuation"	6.1	Call	714.5	357.25			
+KITCHEN KNIGHT II Systems	Control Heads	551207	"NECH-120V Control Head, Electrical, 120VAC, No Local Actuation"	6.1	Call	817.5	408.75			
+KITCHEN KNIGHT II Systems	Control Heads	551594	ECH/SM-120 ECH-120 Control Head and SM-120 - System Circuit Monitor	8.1	Call	1310	655			
+KITCHEN KNIGHT II Systems	Control Heads	550853	"MB-P2 Mounting Bracket, Control Head"	1.2	Call	68	34			
+KITCHEN KNIGHT II Systems	Control Heads	550211	Control Head Connector Package	0	Call	18.75	9.38			
+KITCHEN KNIGHT II Systems	Circuit Monitors	550303	"SM-24 System Circuit Monitor, 24VDC"	1	Call	479	239.5			
+KITCHEN KNIGHT II Systems	Circuit Monitors	550302	"SM-120 System Circuit Monitor, 120VAC"	1.5	Call	584.5	292.25			
+KITCHEN KNIGHT II Systems	Nozzles/Adaptors/Accessories	551026	"1L Nozzle, Package of 10"	1.5	Call	607.5	303.75			
+KITCHEN KNIGHT II Systems	Nozzles/Adaptors/Accessories	551027	"2L Nozzle, Package of 10"	1.3	Call	607.5	303.75			
+KITCHEN KNIGHT II Systems	Nozzles/Adaptors/Accessories	551028	"2H Nozzle, Package of 10"	1.5	Call	607.5	303.75			
+KITCHEN KNIGHT II Systems	Nozzles/Adaptors/Accessories	551029	"1H Nozzle, Package of 10"	1.3	Call	607.5	303.75			
+KITCHEN KNIGHT II Systems	Nozzles/Adaptors/Accessories	551038	"2D Nozzle, Package of 10"	1.5	Call	607.5	303.75			
+KITCHEN KNIGHT II Systems	Nozzles/Adaptors/Accessories	553389	Henny Penny Nozzle Kit	4.1	Call	539.5	269.75			
+KITCHEN KNIGHT II Systems	Nozzles/Adaptors/Accessories	553328	"2F Nozzle, (1 Pc.) HP Kit"	0	Call	65.75	32.88			
+KITCHEN KNIGHT II Systems	Nozzles/Adaptors/Accessories	418569	Swivel Adaptor (Single)	0.3	Call	43.5	21.75			
+KITCHEN KNIGHT II Systems	Nozzles/Adaptors/Accessories	423572	"Swivel Adaptor , Package of 25"	6.4	Call	834	417			
+KITCHEN KNIGHT II Systems	Nozzles/Adaptors/Accessories	551265	Nozzle Aiming Device (No Adaptor Included)	1	Call	328	164			
+KITCHEN KNIGHT II Systems	Nozzles/Adaptors/Accessories	550926	KITCHEN KNIGHT II Aiming Device Adaptor (use with nozzle aiming device)	0.1	Call	51	25.5			
+KITCHEN KNIGHT II Systems	Nozzles/Adaptors/Accessories	551269	Nozzle Aiming Device Replacement Battery	0.1	Call	33.25	16.63			
+KITCHEN KNIGHT II Systems	Pull Stations/Accessories	551074	"RPS-M Remote Pull Station, Mechanical"	1.1	Call	112	56			
+KITCHEN KNIGHT II Systems	Pull Stations/Accessories	551166	"RPS-E2 Remote Pull Station, Electrical"	2	Call	111	55.5			
+KITCHEN KNIGHT II Systems	Pull Stations/Accessories	550088	RPS-MTR Trim Ring for Flush Mounting RPS-M	0.2	Call	30.25	15.13			
+KITCHEN KNIGHT II Systems	Pull Stations/Accessories	428661	"Break Rod for RPS-E2 Pull Station,2 in. L x1/4 in. Dia.,  Package of 12"	1	Call	26.25	13.13			
+KITCHEN KNIGHT II Systems	Pull Stations/Accessories	550299	"RPS-EGR Glass Rods, 2 1/4 in. L x 1/8 in.  Dia., Package of 20"	0.1	Call	106.5	53.25			
+KITCHEN KNIGHT II Systems	Pull Stations/Accessories	551709	"RPS-MGR Glass Rods for RPS-M, Package of 20"	0.1	Call	60.25	30.13			
+KITCHEN KNIGHT II Systems	Pull Stations/Accessories	550527	RPS-M Pull Station Back Box (Red)	0.5	Call	32.25	16.13			
+KITCHEN KNIGHT II Systems	Pull Stations/Accessories	5137	Pull Station Set Screw	0.1	Call	0.43	0.21			
+KITCHEN KNIGHT II Systems	Fusible Links/Detectors/Accessories	435547	"Detector, Series (Scissor Linkage) Each"	0.8	Call	55.5	27.75			
+KITCHEN KNIGHT II Systems	Fusible Links/Detectors/Accessories	435546	"Detector, Terminal (Scissor Linkage)"	0.7	Call	69.5	34.75			
+KITCHEN KNIGHT II Systems	Fusible Links/Detectors/Accessories	440495	"Detector, Terminal (Scissor Linkage), Package of 10"	7	Call	645.5	322.75			
+KITCHEN KNIGHT II Systems	Fusible Links/Detectors/Accessories	439515	"Detector, Stainless Steel Hook Assembly, Package of 10"	11	Call	234	117			
+KITCHEN KNIGHT II Systems	Fusible Links/Detectors/Accessories	435545	"Detector, Stainless Steel Hook Assembly, Each"	0	Call	27	13.5			
+KITCHEN KNIGHT II Systems	Fusible Links/Detectors/Accessories	550876	"FLH-25 Hanger, Fusible Link, 25/package"	1.5	Call	213	106.5			
+KITCHEN KNIGHT II Systems	Fusible Links/Detectors/Accessories	439227	"Fusible Link, 165 deg.F (A-PC Style) 10/package (pkg. price)"	0.3	Call	196.5	98.25			
+KITCHEN KNIGHT II Systems	Fusible Links/Detectors/Accessories	439228	"Fusible Link, 212 deg.F (A-PC Style) 10/package (pkg. price)"	0.3	Call	196.5	98.25			
+KITCHEN KNIGHT II Systems	Fusible Links/Detectors/Accessories	439229	"Fusible Link, 280 deg.F (A-PC Style) 10/package (pkg. price)"	0.3	Call	196.5	98.25			
+KITCHEN KNIGHT II Systems	Fusible Links/Detectors/Accessories	439230	"Fusible Link, 360 deg.F (A-PC Style) 10/package (pkg. price)"	0.3	Call	196.5	98.25			
+KITCHEN KNIGHT II Systems	Fusible Links/Detectors/Accessories	439231	"Fusible Link, 450 deg.F (A-PC Style) 10/package (pkg. price)"	0.3	Call	196.5	98.25			
+KITCHEN KNIGHT II Systems	Fusible Links/Detectors/Accessories	439232	"Fusible Link, 500 deg.F, (A-PC Style) 25/package (pkg. price)"	0.3	Call	575	287.5			
+KITCHEN KNIGHT II Systems	Fusible Links/Detectors/Accessories	13975	"Detector, Heat, Rate Compensated, 325 deg.F, Vert. (Qty. discount 50+)"	0.3	Call	326	163			
+KITCHEN KNIGHT II Systems	Fusible Links/Detectors/Accessories	13974	"Detector, Heat, Rate Compensated, 450 deg.F, Vert. (Qty. discount 50+)"	0.3	Call	341.5	170.75			
+KITCHEN KNIGHT II Systems	Fusible Links/Detectors/Accessories	13971	"Detector, Heat, Rate Compensated, 600 deg.F, Vert. (Qty. discount 50+)"	0.3	Call	354	177			
+KITCHEN KNIGHT II Systems	Fusible Links/Detectors/Accessories	441641	24 Pack of Quik- Fastener with 1/8 in. Pilot	0	Call	119.5	59.75			
+KITCHEN KNIGHT II Systems	Fusible Links/Detectors/Accessories	441642	Quik- Fastener Magnetic Driver	0	Call	58.5	29.25			
+KITCHEN KNIGHT II Systems	Fusible Links/Detectors/Accessories	441643	1/8 in. Quik-Fastener Pilot Drill	0	Call	18.75	9.38			
+KITCHEN KNIGHT II Systems	Corner Pulleys/Tee	415670	"SBP-1 Corner Pulley, Set Screw Type (each)"	0.2	Call	21.75	10.88			
+KITCHEN KNIGHT II Systems	Corner Pulleys/Tee	551160	"SBP-10 Corner Pulley, Set Screw Type, Package of 10"	2	Call	183	91.5			
+KITCHEN KNIGHT II Systems	Corner Pulleys/Tee	415671	"SBP-50 Corner Pulley, Set Screw Type, Package of 50"	9.5	Call	830	415			
+KITCHEN KNIGHT II Systems	Corner Pulleys/Tee	423250	"CBP-1 Corner Pulley, Compression Type (each)"	0.3	Call	24	12			
+KITCHEN KNIGHT II Systems	Corner Pulleys/Tee	551161	"CBP-1 Corner Pulley, Compression Type, Package of 10"	3	Call	189	94.5			
+KITCHEN KNIGHT II Systems	Corner Pulleys/Tee	423251	"CBP-50 Corner Pulley, Compression Type, Package of 50"	14.9	Call	989	494.5			
+KITCHEN KNIGHT II Systems	Corner Pulleys/Tee	550983	"WBP-10 Corner Pulley, Weather Resistant Type, Package of 10"	1.8	Call	152.5	76.25			
+KITCHEN KNIGHT II Systems	Corner Pulleys/Tee	427929	TP-1 Tee Pulley	0.5	Call	83	41.5			
+KITCHEN KNIGHT II Systems	Corner Pulleys/Tee	550982	"WBP-1 Corner Pulley,  Weather Resistant Type"	0.3	Call	16.25	8.13			
+KITCHEN KNIGHT II Systems	Corner Pulleys/Tee	436063	"Conduit Offset, Package of 6"	3.1	Call	187.5	93.75			
+KITCHEN KNIGHT II Systems	Corner Pulleys/Tee	55813	EMT Compression Connector 1/2 in.	0.08	Call	3.28	1.64			
+KITCHEN KNIGHT II Systems	Cartridge/Actuation Accessories	551059	"16 Gram Carbon Dioxide Actuation Cartridge, Package of 6"	1.2	Call	137.5	68.75			
+KITCHEN KNIGHT II Systems	Cartridge/Actuation Accessories	417582	"Braided Hose, 8 in.   (20cm)"	0.2	Call	50	25			
+KITCHEN KNIGHT II Systems	Cartridge/Actuation Accessories	31809	"Braided Hose, 16 in. (41cm)"	0.3	Call	61.5	30.75			
+KITCHEN KNIGHT II Systems	Cartridge/Actuation Accessories	32336	"Braided Hose, 24 in.  (61cm)"	0.3	Call	63	31.5			
+KITCHEN KNIGHT II Systems	Cartridge/Actuation Accessories	430815	"Braided Hose, 42 in.  (107cm) - 1/4 NPTF x 7/16-20 Flare"	0.3	Call	58.5	29.25			
+KITCHEN KNIGHT II Systems	Cartridge/Actuation Accessories	31810	"Male Elbow, 7/16-20 x 1/4 NPT"	0.1	Call	15.25	7.63			
+KITCHEN KNIGHT II Systems	Cartridge/Actuation Accessories	31811	"Male Tee, 7/16-20 x 1/4 NPT"	0.1	Call	18.75	9.38			
+KITCHEN KNIGHT II Systems	Cartridge/Actuation Accessories	32338	"Male Straight Connector,  7/16-20 x 1/4   NPT"	0.1	Call	6.85	3.43			
+KITCHEN KNIGHT II Systems	Cartridge/Actuation Accessories	550829	PDA-D2 Pneumatic Discharge Adaptor	0.7	Call	83.75	41.88			
+KITCHEN KNIGHT II Systems	Gas Valves	550593	"GV-75 Gas Valve, Mechanical, Direct Cable Hookup, 3/4 in. Pipe"	3.1	Call	342	171			
+KITCHEN KNIGHT II Systems	Gas Valves	550594	"GV-100 Gas Valve, Mechanical, Direct Cable Hookup, 1 in. Pipe"	2.9	Call	383.5	191.75			
+KITCHEN KNIGHT II Systems	Gas Valves	550595	"GV-125 Gas Valve, Mechanical, Direct Cable Hookup, 1-1/4 in. Pipe"	3.6	Call	404.5	202.25			
+KITCHEN KNIGHT II Systems	Gas Valves	550596	"GV-150 Gas Valve, Mechanical, Direct Cable Hookup, 1-1/2 in. Pipe"	3.5	Call	441.5	220.75			
+KITCHEN KNIGHT II Systems	Gas Valves	551049	"GV-200 Gas Valve, Mechanical, Direct Cable Hookup, 2 in. Pipe"	6.2	Call	504.5	252.25			
+KITCHEN KNIGHT II Systems	Gas Valves	550185	"GV-250 Gas Valve, Mechanical, Direct Cable Hookup, 2-1/2 in. Pipe"	12.2	Call	1135	567.5			
+KITCHEN KNIGHT II Systems	Gas Valves	550186	"GV-300 Gas Valve, Mechanical, Direct Cable Hookup, 3 in. Pipe"	12.2	Call	1225	612.5			
+KITCHEN KNIGHT II Systems	Gas Valves	13707	"EGVSO-75 Gas Valve, Electrical, (120 VAC, 60 Hz) 3/4 in. Pipe"	5	Call	358.5	179.25			
+KITCHEN KNIGHT II Systems	Gas Valves	13708	"EGVSO-100 Gas Valve, Electrical, (120 VAC, 60 Hz) 1 in.  Pipe"	4	Call	526.5	263.25			
+KITCHEN KNIGHT II Systems	Gas Valves	550360	"EGVSO-125 Gas Valve, Electrical, (120 VAC, 60 Hz) 1-1/4 in. Pipe"	4.2	Call	539	269.5			
+KITCHEN KNIGHT II Systems	Gas Valves	13709	"EGVSO-150 Gas Valve, Electrical, (120 VAC, 60 Hz) 1-1/2 in. Pipe"	4	Call	607.5	303.75			
+KITCHEN KNIGHT II Systems	Gas Valves	13710	"EGVSO-200 Gas Valve, Electrical, (120 VAC, 60 Hz) 2 in. Pipe"	5.8	Call	857	428.5			
+KITCHEN KNIGHT II Systems	Gas Valves	550363	"EGVSO-250 Gas Valve, Electrical, (120 VAC, 60 Hz) 2-1/2 in."	13.5	Call	1401	700.5			
+KITCHEN KNIGHT II Systems	Gas Valves	17643	"EGVSO-300 Gas Valve, Electrical, (120 VAC, 60 Hz) 3 in."	12.1	Call	1788	894			
+KITCHEN KNIGHT II Systems	Gas Valves	550603	"GVB Box Assembly, Gas Valve, Red"	1.1	Call	65.5	32.75			
+KITCHEN KNIGHT II Systems	Switches	551154	MS-SPDT One-Switch Kit (New)	0.2	Call	39.25	19.63			
+KITCHEN KNIGHT II Systems	Switches	551155	MS-DPDT Two-Switch Kit (New)	0.2	Call	76.25	38.13			
+KITCHEN KNIGHT II Systems	Switches	551156	MS-3PDT Three-Switch Kit (New)	0.2	Call	115	57.5			
+KITCHEN KNIGHT II Systems	Switches	551157	MS-4PDT Four-Switch Kit (New)	0.3	Call	157.5	78.75			
+KITCHEN KNIGHT II Systems	Switches	550227	"MS-SPDT Switch, Single-Pole Double-Throw"	0.2	Call	72.25	36.13			
+KITCHEN KNIGHT II Systems	Switches	550237	"MS-DPDT Switch, Double-Pole Double-Throw"	0.3	Call	146	73			
+KITCHEN KNIGHT II Systems	Switches	550230	"MS-4PDT-CH Switch, Four-Pole Double-Throw"	0.5	Call	303	151.5			
+KITCHEN KNIGHT II Systems	Switches	550978	"MS-4PDT-EN Switch for EN-MCU Units, Four-Pole Double-Throw (Old)"	0.4	Call	303	151.5			
+KITCHEN KNIGHT II Systems	Switches	550077	Alarm Initiating Switch	0.2	Call	36	18			
+KITCHEN KNIGHT II Systems	Switches	552173	Micro Switch Extension Kit	0.1	Call	25.25	12.63			
+KITCHEN KNIGHT II Systems	Switches	437155	Alarm Initiating and Snap Action Switch	0.1	Call	83	41.5			
+KITCHEN KNIGHT II Systems	Wire Rope/Accessories	15821	"WR-50 Wire Rope, Stainless Steel, 1/16 in. Dia., 50 feet"	0.4	Call	57.25	28.63			
+KITCHEN KNIGHT II Systems	Wire Rope/Accessories	79653	"WR-500 Wire Rope, Stainless Steel, 1/16 in. Dia., 500 feet"	4.8	Call	234	117			
+KITCHEN KNIGHT II Systems	Wire Rope/Accessories	550121	"SH-100 S-Hooks, Package of 100"	0.7	Call	32	16			
+KITCHEN KNIGHT II Systems	Flexible Conduit	439104	Flexible Conduit (Pre-Fed) - 50 ft.	0	Call	216.5	108.25			
+KITCHEN KNIGHT II Systems	Flexible Conduit	435959	Flexible Conduit - 500 ft. and Wire Rope - 500 ft.	36.32	Call	940.5	470.25			
+KITCHEN KNIGHT II Systems	Flexible Conduit	434525	Flexible Conduit - 500 ft.	33	Call	740	370			
+KITCHEN KNIGHT II Systems	Flexible Conduit	435979	Flexible Conduit Strain Relief (50 Pack)	0.1	Call	434	217			
+KITCHEN KNIGHT II Systems	Flexible Conduit	434347	Flexible Conduit Insert (50 Pack)	0.25	Call	125	62.5			
+KITCHEN KNIGHT II Systems	Flexible Conduit	436150	P Clips (50 Pack)	0.5	Call	86	43			
+KITCHEN KNIGHT II Systems	Flexible Conduit	79827	Compression Union	0.25	Call	14	7			
+KITCHEN KNIGHT II Systems	Accessories	434528	115 VAC Horn/Strobe Assembly	1	Call	267	133.5			
+KITCHEN KNIGHT II Systems	Accessories	79153	"Adaptor, 1/2 in. EMT Compression Seal, Package of 24"	11.8	Call	988	494			
+KITCHEN KNIGHT II Systems	Accessories	423253	"Adaptor, Hood Seal, Package of 6"	2	Call	307	153.5			
+KITCHEN KNIGHT II Systems	Accessories	77284	"Quickseal Adaptor, 3/8 in., (each)"	0.4	Call	29.5	14.75			
+KITCHEN KNIGHT II Systems	Accessories	77285	"Quickseal Adaptor, 3/8 in., Package of 24"	9.4	Call	643	321.5			
+KITCHEN KNIGHT II Systems	Accessories	77286	"Quickseal Adaptor, 1/2 in. NPT(each)"	0.3	Call	31.25	15.63			
+KITCHEN KNIGHT II Systems	Accessories	77287	"Quickseal Adaptor, 1/2 in., NPT Package of 24"	8.6	Call	682	341			
+KITCHEN KNIGHT II Systems	Accessories	79149	"Adaptor, 1/4 in. Pipe Compression-Seal, 24/package (pkg. price)"	6.9	Call	793	396.5			
+KITCHEN KNIGHT II Systems	Accessories	79151	"Adaptor, 3/8 in. Pipe Compression-Seal, 24/package (pkg. price)"	12.3	Call	988	494			
+KITCHEN KNIGHT II Systems	Accessories	79147	"Adaptor, 1/2 in. Pipe Compression-Seal, 24/package (pkg. price)"	13.2	Call	1082	541			
+KITCHEN KNIGHT II Systems	Accessories	550788	VT-1 Wet Valve Tool	0.1	Call	59.5	29.75			
+KITCHEN KNIGHT II Systems	Accessories	551240	PCL-AK Recharge Adaptor Kit KKII	0.3	Call	80.25	40.13			
+KITCHEN KNIGHT II Systems	Accessories	551037	"Beaker, 3000 ml"	1.2	Call	215	107.5			
+KITCHEN KNIGHT II Systems	Accessories	551039	Measuring Stick	1.2	Call	69.75	34.88			
+KITCHEN KNIGHT II Systems	Accessories	550735	Recharge Adaptor Kit - Kitchen Knight	0.25	Call	80.25	40.13			
+KITCHEN KNIGHT II Systems	Accessories	552181	Hydrotest Adapter	1	Call	77	38.5			
+KITCHEN KNIGHT II Systems	Accessories	550938	Bleed Down Adaptor Kit	0.3	Call	65.75	32.88			
+KITCHEN KNIGHT II Systems	Accessories	79656	"Flushing Kit, 32 oz. Container, Package of 12"	34.5	Call	434	217			
+KITCHEN KNIGHT II Systems	Recharge Agent	553176	"RL-160, Recharge, 1.6 Gallon"	21	Call	168	84			
+KITCHEN KNIGHT II Systems	Recharge Agent	551188	"RL-300, 3.0 Gallons of Wet Chemical for Recharge"	45	Call	260	130			
+KITCHEN KNIGHT II Systems	Test Tanks	551024	PCL-300T Empty 3.0 Gallon Test Tank	23	Call	604.5	302.25			
+KITCHEN KNIGHT II Systems	Test Tanks	550902	PCL-460T Empty 4.6 Gallon Test Tank	30	Call	773	386.5			
+KITCHEN KNIGHT II Systems	Test Tanks	550901	PCL-600T Empty 6.0 Gallon Test Tank	40	Call	888	444			
+KITCHEN KNIGHT II Systems	Spare Parts	553642	"Pick-Up Tube, PCL 160: 13.28 in. LG"	0	Call	65.25	32.63			
+KITCHEN KNIGHT II Systems	Spare Parts	553643	"Pick-Up Tube, PCL 600: 31 3/4 in. LG"	0	Call	65.25	32.63			
+KITCHEN KNIGHT II Systems	Spare Parts	553644	"Pick-Up Tube, PCL 460: 20.94 in. LG"	0	Call	65.25	32.63			
+KITCHEN KNIGHT II Systems	Spare Parts	553645	"Pick-Up Tube, PCL 300: 20 9/16 in. LG"	0	Call	65.25	32.63			
+KITCHEN KNIGHT II Systems	Spare Parts	550698	Wet Valve Rebuilding Kit	0.3	Call	59.5	29.75			
+KITCHEN KNIGHT II Systems	Spare Parts	550831	Wet Valve Cap with Valve Core	0.4	Call	60.75	30.38			
+KITCHEN KNIGHT II Systems	Spare Parts	550705	Wet Spring	0.1	Call	7.65	3.83			
+KITCHEN KNIGHT II Systems	Spare Parts	551236	"Wet Gauge, 225 psi"	0.1	Call	85.25	42.63			
+KITCHEN KNIGHT II Systems	Spare Parts	550716	Wet Valve O-ring	0.1	Call	13	6.5			
+KITCHEN KNIGHT II Systems	Spare Parts	550707	Wet Piston	0.7	Call	17.75	8.88			
+KITCHEN KNIGHT II Systems	Spare Parts	550715	Wet Piston O-ring	0.1	Call	7.95	3.98			
+KITCHEN KNIGHT II Systems	Spare Parts	550714	Wet Valve Cap O-ring	0.1	Call	7.95	3.98			
+KITCHEN KNIGHT II Systems	Spare Parts	550713	"Wet Gauge, 175 psi"	0.1	Call	78.75	39.38			
+KITCHEN KNIGHT II Systems	Spare Parts	551528	"Wet Nozzle Cap, Stainless Steel, Package of 10"	0.1	Call	97.25	48.63			
+KITCHEN KNIGHT II Systems	Spare Parts	551529	"Wet Nozzle Strainer, Package of 10"	0.1	Call	94.5	47.25			
+KITCHEN KNIGHT II Systems	Spare Parts	551530	"Wet Nozzle Cap O-ring, Package of 10"	0.1	Call	27.75	13.88			
+KITCHEN KNIGHT II Systems	Spare Parts	550016	"Rubber Blow Off Cap, Package of 12"	0.1	Call	53.75	26.88			
+KITCHEN KNIGHT II Systems	Spare Parts	551175	Complete Wet Valve Assembly	1.1	Call	254	127			
+KITCHEN KNIGHT II Systems	Spare Parts	550985	Pressure Regulator Assembly	0.5	Call	64	32			
+KITCHEN KNIGHT II Systems	Spare Parts	551061	Pressure Regulator Rebuild Kit	0.1	Call	24.75	12.38			
+KITCHEN KNIGHT II Systems	Spare Parts	550958	Control Head Connector Package	0	Call	49.25	24.63			
+KITCHEN KNIGHT II Systems	Spare Parts	55531	Control Head Replacement O-Ring (Not Sold Individually - Must Order Min. 10 pcs. )	0.1	Call	2.09	1.04			
+KITCHEN KNIGHT II Systems	Spare Parts	57593	O-Ring Lubricant	0.5	Call	114	57			
+KITCHEN KNIGHT II Systems	KITCHEN ONE Extinguisher	553376	"KITCHEN ONE Extinguisher w/Wall Bracket, 6L (KS6100)"	27.5	Call	461.5	230.75			
+KITCHEN KNIGHT II Systems	Fusible Links/Detectors/Accessories	13976	"Detector, Heat, Rate Compensated, 225 deg.F, Vert. (Qty. discount 50+)"	0.3	Call	354	177			
+KITCHEN KNIGHT II Systems	Spare Parts	197	Lead Wire Seal	0.1	Call	1.3	0.65			
+KITCHEN KNIGHT II Systems	Labels	553486	"Label, Exhaust Fan Caution, Package of 10"	0.1	Call	32.25	16.13			
+KITCHEN KNIGHT II Systems	Agent Discharge Accessories	435982	Agent Distribution Hose and Restraining Cable	4	Call	434	217			
+KITCHEN KNIGHT II Systems	Agent Discharge Accessories	436228	Reducing Coupling (3/8 in. x 1/2 in.)	0.25	Call	8.35	4.18			
+MONARCH Industrial Systems	Cylinders/Brackets	551654	"PCI-17ABC Cylinder with Valve, ABC Agent, 17 lb."	41	Call	866	433			
+MONARCH Industrial Systems	Cylinders/Brackets	551097	"PCI-35ABC Cylinder with Valve, ABC Agent, 35 lb."	74.7	Call	1285	642.5			
+MONARCH Industrial Systems	Cylinders/Brackets	551094	"PCI-70ABC Cylinder with Valve, ABC Agent, 70 lb."	125	Call	1728	864			
+MONARCH Industrial Systems	Cylinders/Brackets	550388	"PCI-15ABC Cylinder with Valve, ABC Agent, 12.5 lb."	30.4	Call	661	330.5			
+MONARCH Industrial Systems	Cylinders/Brackets	550391	"PCI-25sBC Cylinder with Valve, BC Agent, 25 lb."	48.5	Call	866	433			
+MONARCH Industrial Systems	Cylinders/Brackets	550390	"PCI-25sABC Cylinder with Valve, ABC Agent, 25 lb."	48.5	Call	866	433			
+MONARCH Industrial Systems	Cylinders/Brackets	550393	"PCI-50sBC Cylinder with Valve, BC Agent, 50 lb."	90.4	Call	1471	735.5			
+MONARCH Industrial Systems	Cylinders/Brackets	550392	"PCI-50sABC Cylinder with Valve, ABC Agent, 50 lb."	90.4	Call	1471	735.5			
+MONARCH Industrial Systems	Cylinders/Brackets	550665	"MB-ATD Mounting Bracket, ATD 35/75 Cylinders"	5.8	Call	136	68			
+MONARCH Industrial Systems	Brackets/Enclosures/Straps	550053	MB-1 Cylinder Mounting Bracket	5	Call	132.5	66.25			
+MONARCH Industrial Systems	Brackets/Enclosures/Straps	550054	MB-15 Cylinder Mounting Bracket	3.7	Call	120	60			
+MONARCH Industrial Systems	Cylinders/Brackets	550324	"MB-U8 Floor Mounting Bracket, 8 in.  Diameter Cylinders"	1.2	Call	79.75	39.88			
+MONARCH Industrial Systems	Cylinders/Brackets	550383	"MB-U10 Floor Mounting Bracket, 10 in. Diameter Cylinders"	1.4	Call	80.75	40.38			
+MONARCH Industrial Systems	Cylinders/Brackets	550638	"MB-U12 Floor Mounting Bracket, 12 in. Diameter Cylinders"	1.8	Call	100	50			
+MONARCH Industrial Systems	Control Heads	551203	"NMCH Control Head, Mechanical, No Local Actuation"	6	Call	528	264			
+MONARCH Industrial Systems	Control Heads	550101	NMCH Cover Assembly Replacement	0.4	Call	42.75	21.38			
+MONARCH Industrial Systems	Control Heads	551204	"NMCH-DPT Control Head w/Switch, Mechanical, No Local Actuation"	6.1	Call	631	315.5			
+MONARCH Industrial Systems	Control Heads	551200	"MCH Control Head, Mechanical, with Local Actuation"	6.1	Call	548.5	274.25			
+MONARCH Industrial Systems	Control Heads	551201	"ECH-24 Control Head, Electrical, 24VDC, with Local Actuation"	7	Call	726	363			
+MONARCH Industrial Systems	Control Heads	551202	"ECH-120 Control Head, Electrical, 120VAC, with Local Actuation"	7	Call	832	416			
+MONARCH Industrial Systems	Control Heads	551206	"NECH-24V Control Head, Electrical, 24VDC, No Local Actuation"	6.1	Call	714.5	357.25			
+MONARCH Industrial Systems	Control Heads	551207	"NECH-120V Control Head, Electrical, 120VAC, No Local Actuation"	6.1	Call	817.5	408.75			
+MONARCH Industrial Systems	Control Heads	551594	ECH/SM-120 ECH-120 Control Head and SM-120 - System Circuit Monitor	8.1	Call	1310	655			
+MONARCH Industrial Systems	Control Heads	550853	"MB-P2 Mounting Bracket, Control Head"	1.2	Call	68	34			
+MONARCH Industrial Systems	Control Heads	550211	Control Head Connector Package	0	Call	18.75	9.38			
+MONARCH Industrial Systems	Circuit Monitors	550303	"SM-24 System Circuit Monitor, 24VDC"	1	Call	479	239.5			
+MONARCH Industrial Systems	Circuit Monitors	550302	"SM-120 System Circuit Monitor, 120VAC"	1.5	Call	584.5	292.25			
+MONARCH Industrial Systems	Nozzles	551650	"NV-WA Nozzle with Cap, Work Area, Vehicle Paint Booth"	0.1	Call	94.25	47.13			
+MONARCH Industrial Systems	Nozzles	552175	"NV-SW Nozzle with Cap, Work Area, Vehicle Paint Booth"	0.1	Call	94.25	47.13			
+MONARCH Industrial Systems	Nozzles	551652	"NV-P1 Nozzle with Cap, Overhead Plenum Area, Vehicle Paint Booth"	0.1	Call	94.25	47.13			
+MONARCH Industrial Systems	Nozzles	551653	"NV-DP2 Nozzle with Cap, Exhaust Duct/End Plenum Area, Vehicle Paint Booth"	0.1	Call	94.25	47.13			
+MONARCH Industrial Systems	Nozzles	551651	"NV-UF Nozzle with Cap, Under Floor Plenum Area, Vehicle Paint Booth"	0.2	Call	94.25	47.13			
+MONARCH Industrial Systems	Nozzles	551098	"N-SCR Nozzle with Cap, Screening, Open Face Paint Booth"	0.1	Call	94.25	47.13			
+MONARCH Industrial Systems	Nozzles	551099	"N-OTF Nozzle with Cap, Work Area Flooding, Open Face Paint Booth"	0.1	Call	94.25	47.13			
+MONARCH Industrial Systems	Nozzles	551100	"N-PLU Nozzle with Cap, Plenum, Open Face Paint Booth"	0.1	Call	94.25	47.13			
+MONARCH Industrial Systems	Nozzles	551101	"N-DCT Nozzle with Cap, Exhaust Duct, Open Face  and Vehicle Paint Booth"	0.1	Call	94.25	47.13			
+MONARCH Industrial Systems	Nozzles	551678	"NF-ABC Nozzle with Cap, Total Flooding"	0.1	Call	94.25	47.13			
+MONARCH Industrial Systems	Nozzles	550646	"N-LA-ABC Nozzle with Cap, ABC Local Application, Overhead"	0.5	Call	98.75	49.38			
+MONARCH Industrial Systems	Nozzles	550342	"N-LA-BC Nozzle with Cap, BC Local Application, Overhead"	0.5	Call	288.5	144.25			
+MONARCH Industrial Systems	Nozzles	550337	"N-TS Nozzle with Cap, Local Application, Tankside"	0.1	Call	94.25	47.13			
+MONARCH Industrial Systems	Pull Stations/Accessories	551074	"RPS-M Remote Pull Station, Mechanical"	1.1	Call	112	56			
+MONARCH Industrial Systems	Pull Stations/Accessories	551166	"RPS-E2 Remote Pull Station, Electrical"	2	Call	111	55.5			
+MONARCH Industrial Systems	Pull Stations/Accessories	550088	RPS-MTR Trim Ring for Flush Mounting RPS-M	0.2	Call	30.25	15.13			
+MONARCH Industrial Systems	Pull Stations/Accessories	551709	"RPS-MGR Glass Rods for RPS-M, Package of 20"	0.1	Call	60.25	30.13			
+MONARCH Industrial Systems	Pull Stations/Accessories	428661	"Break Rod for RPS-E2 Pull Station,2 in. L x1/4 in. Dia.,  Package of 12"	1	Call	26.25	13.13			
+MONARCH Industrial Systems	Pull Stations/Accessories	550299	"RPS-EGR Glass Rods, 2 1/4 in. L x 1/8 in.  Dia., Package of 20"	0.1	Call	106.5	53.25			
+MONARCH Industrial Systems	Pull Stations/Accessories	550527	RPS-M Pull Station Back Box (Red)	0.5	Call	32.25	16.13			
+MONARCH Industrial Systems	Fusible Links/Detectors/Accessories	550876	"FLH-25 Hanger, Fusible Link, 25/package"	1.5	Call	213	106.5			
+MONARCH Industrial Systems	Fusible Links/Detectors/Accessories	439227	"Fusible Link, 165 deg.F (A-PC Style) 10/package (pkg. price)"	0.3	Call	196.5	98.25			
+MONARCH Industrial Systems	Fusible Links/Detectors/Accessories	439228	"Fusible Link, 212 deg.F (A-PC Style) 10/package (pkg. price)"	0.3	Call	196.5	98.25			
+MONARCH Industrial Systems	Fusible Links/Detectors/Accessories	439229	"Fusible Link, 280 deg.F (A-PC Style) 10/package (pkg. price)"	0.3	Call	196.5	98.25			
+MONARCH Industrial Systems	Fusible Links/Detectors/Accessories	439230	"Fusible Link, 360 deg.F (A-PC Style) 10/package (pkg. price)"	0.3	Call	196.5	98.25			
+MONARCH Industrial Systems	Fusible Links/Detectors/Accessories	439231	"Fusible Link, 450 deg.F (A-PC Style) 10/package (pkg. price)"	0.3	Call	196.5	98.25			
+MONARCH Industrial Systems	Fusible Links/Detectors/Accessories	439232	"Fusible Link, 500 deg.F, (A-PC Style) 25/package (pkg. price)"	0.3	Call	575	287.5			
+MONARCH Industrial Systems	Fusible Links/Detectors/Accessories	13976	"Detector, Heat, Rate Compensated, 225 deg.F, Vert. (Qty. discount 50+)"	0.3	Call	354	177			
+MONARCH Industrial Systems	Fusible Links/Detectors/Accessories	435547	"Detector, Series (Scissor Linkage) Each"	0.8	Call	55.5	27.75			
+MONARCH Industrial Systems	Fusible Links/Detectors/Accessories	435546	"Detector, Terminal (Scissor Linkage)"	0.7	Call	69.5	34.75			
+MONARCH Industrial Systems	Fusible Links/Detectors/Accessories	440495	"Detector, Terminal (Scissor Linkage), Package of 10"	7	Call	645.5	322.75			
+MONARCH Industrial Systems	Fusible Links/Detectors/Accessories	439515	"Detector, Stainless Steel Hook Assembly, Package of 10"	11	Call	234	117			
+MONARCH Industrial Systems	Fusible Links/Detectors/Accessories	435545	"Detector, Stainless Steel Hook Assembly, Each"	0	Call	27	13.5			
+MONARCH Industrial Systems	Fusible Links/Detectors/Accessories	13975	"Detector, Heat, Rate Compensated, 325 deg.F, Vert. (Qty. discount 50+)"	0.3	Call	326	163			
+MONARCH Industrial Systems	Fusible Links/Detectors/Accessories	13974	"Detector, Heat, Rate Compensated, 450 deg.F, Vert. (Qty. discount 50+)"	0.3	Call	341.5	170.75			
+MONARCH Industrial Systems	Fusible Links/Detectors/Accessories	13971	"Detector, Heat, Rate Compensated, 600 deg.F, Vert. (Qty. discount 50+)"	0.3	Call	354	177			
+MONARCH Industrial Systems	Detectors	432973	"TD-190 Electric Thermal Detector, 190 F , 24 in. Leads"	0.3	Call	380.5	190.25			
+MONARCH Industrial Systems	Detectors	432974	"TD-225 Electric Thermal Detector, 225 F , 24 in. Leads"	0.2	Call	380.5	190.25			
+MONARCH Industrial Systems	Corner Pulleys/Tee	415670	"SBP-1 Corner Pulley, Set Screw Type (each)"	0.2	Call	21.75	10.88			
+MONARCH Industrial Systems	Corner Pulleys/Tee	551160	"SBP-10 Corner Pulley, Set Screw Type, Package of 10"	2	Call	183	91.5			
+MONARCH Industrial Systems	Corner Pulleys/Tee	415671	"SBP-50 Corner Pulley, Set Screw Type, Package of 50"	9.5	Call	830	415			
+MONARCH Industrial Systems	Corner Pulleys/Tee	423250	"CBP-1 Corner Pulley, Compression Type (each)"	0.3	Call	24	12			
+MONARCH Industrial Systems	Corner Pulleys/Tee	551161	"CBP-1 Corner Pulley, Compression Type, Package of 10"	3	Call	189	94.5			
+MONARCH Industrial Systems	Corner Pulleys/Tee	423251	"CBP-50 Corner Pulley, Compression Type, Package of 50"	14.9	Call	989	494.5			
+MONARCH Industrial Systems	Corner Pulleys/Tee	550983	"WBP-10 Corner Pulley, Weather Resistant Type, Package of 10"	1.8	Call	152.5	76.25			
+MONARCH Industrial Systems	Corner Pulleys/Tee	427929	TP-1 Tee Pulley	0.5	Call	83	41.5			
+MONARCH Industrial Systems	Accessories	417788	Swing Check Valve	2.1	Call	439	219.5			
+MONARCH Industrial Systems	Cylinders (UL)	550104	PAC-10 Pneumatic Actuating Cylinder	9	Call	759.5	379.75			
+MONARCH Industrial Systems	Cylinders (UL)	551559	PAC-10-PS Pneumatic Actuating Cylinder w/Pressure Switch	9	Call	958.5	479.25			
+MONARCH Industrial Systems	Actuating Cylinders/Cartridges	550690	PAC-200 Pneumatic Actuating Cylinder	18.4	Call	964	482			
+MONARCH Industrial Systems	Actuating Cylinders/Cartridges	551561	PAC-200-PS Pneumatic Actuating Cylinder w/Pressure Switch	20	Call	1197	598.5			
+MONARCH Industrial Systems	Cartridge/Actuation Accessories	551059	"16 Gram Carbon Dioxide Actuation Cartridge, Package of 6"	1.2	Call	137.5	68.75			
+MONARCH Industrial Systems	Cartridge/Actuation Accessories	417582	"Braided Hose, 8 in.   (20cm)"	0.2	Call	50	25			
+MONARCH Industrial Systems	Cartridge/Actuation Accessories	31809	"Braided Hose, 16 in. (41cm)"	0.3	Call	61.5	30.75			
+MONARCH Industrial Systems	Cartridge/Actuation Accessories	32336	"Braided Hose, 24 in.  (61cm)"	0.3	Call	63	31.5			
+MONARCH Industrial Systems	Cartridge/Actuation Accessories	430815	"Braided Hose, 42 in.  (107cm) - 1/4 NPTF x 7/16-20 Flare"	0.3	Call	58.5	29.25			
+MONARCH Industrial Systems	Cartridge/Actuation Accessories	31810	"Male Elbow, 7/16-20 x 1/4 NPT"	0.1	Call	15.25	7.63			
+MONARCH Industrial Systems	Cartridge/Actuation Accessories	31811	"Male Tee, 7/16-20 x 1/4 NPT"	0.1	Call	18.75	9.38			
+MONARCH Industrial Systems	Cartridge/Actuation Accessories	32338	"Male Straight Connector,  7/16-20 x 1/4   NPT"	0.1	Call	6.85	3.43			
+MONARCH Industrial Systems	Gas Valves	550593	"GV-75 Gas Valve, Mechanical, Direct Cable Hookup, 3/4 in. Pipe"	3.1	Call	342	171			
+MONARCH Industrial Systems	Gas Valves	550594	"GV-100 Gas Valve, Mechanical, Direct Cable Hookup, 1 in. Pipe"	2.9	Call	383.5	191.75			
+MONARCH Industrial Systems	Gas Valves	550595	"GV-125 Gas Valve, Mechanical, Direct Cable Hookup, 1-1/4 in. Pipe"	3.6	Call	404.5	202.25			
+MONARCH Industrial Systems	Gas Valves	550596	"GV-150 Gas Valve, Mechanical, Direct Cable Hookup, 1-1/2 in. Pipe"	3.5	Call	441.5	220.75			
+MONARCH Industrial Systems	Gas Valves	551049	"GV-200 Gas Valve, Mechanical, Direct Cable Hookup, 2 in. Pipe"	6.2	Call	504.5	252.25			
+MONARCH Industrial Systems	Gas Valves	550185	"GV-250 Gas Valve, Mechanical, Direct Cable Hookup, 2-1/2 in. Pipe"	12.2	Call	1135	567.5			
+MONARCH Industrial Systems	Gas Valves	550186	"GV-300 Gas Valve, Mechanical, Direct Cable Hookup, 3 in. Pipe"	12.2	Call	1225	612.5			
+MONARCH Industrial Systems	Gas Valves	13707	"EGVSO-75 Gas Valve, Electrical, (120 VAC, 60 Hz) 3/4 in. Pipe"	5	Call	358.5	179.25			
+MONARCH Industrial Systems	Gas Valves	13708	"EGVSO-100 Gas Valve, Electrical, (120 VAC, 60 Hz) 1 in.  Pipe"	4	Call	526.5	263.25			
+MONARCH Industrial Systems	Gas Valves	550360	"EGVSO-125 Gas Valve, Electrical, (120 VAC, 60 Hz) 1-1/4 in. Pipe"	4.2	Call	539	269.5			
+MONARCH Industrial Systems	Gas Valves	13709	"EGVSO-150 Gas Valve, Electrical, (120 VAC, 60 Hz) 1-1/2 in. Pipe"	4	Call	607.5	303.75			
+MONARCH Industrial Systems	Gas Valves	13710	"EGVSO-200 Gas Valve, Electrical, (120 VAC, 60 Hz) 2 in. Pipe"	5.8	Call	857	428.5			
+MONARCH Industrial Systems	Gas Valves	550363	"EGVSO-250 Gas Valve, Electrical, (120 VAC, 60 Hz) 2-1/2 in."	13.5	Call	1401	700.5			
+MONARCH Industrial Systems	Gas Valves	17643	"EGVSO-300 Gas Valve, Electrical, (120 VAC, 60 Hz) 3 in."	12.1	Call	1788	894			
+MONARCH Industrial Systems	Gas Valves	550603	"GVB Box Assembly, Gas Valve, Red"	1.1	Call	65.5	32.75			
+MONARCH Industrial Systems	Switches	550077	Alarm Initiating Switch	0.2	Call	36	18			
+MONARCH Industrial Systems	Switches	550227	"MS-SPDT Switch, Single-Pole Double-Throw"	0.2	Call	72.25	36.13			
+MONARCH Industrial Systems	Switches	550237	"MS-DPDT Switch, Double-Pole Double-Throw"	0.3	Call	146	73			
+MONARCH Industrial Systems	Switches	550230	"MS-4PDT-CH Switch, Four-Pole Double-Throw"	0.5	Call	303	151.5			
+MONARCH Industrial Systems	Switches	551154	MS-SPDT One-Switch Kit (New)	0.2	Call	39.25	19.63			
+MONARCH Industrial Systems	Switches	551155	MS-DPDT Two-Switch Kit (New)	0.2	Call	76.25	38.13			
+MONARCH Industrial Systems	Switches	551156	MS-3PDT Three-Switch Kit (New)	0.2	Call	115	57.5			
+MONARCH Industrial Systems	Switches	551157	MS-4PDT Four-Switch Kit (New)	0.3	Call	157.5	78.75			
+MONARCH Industrial Systems	Switches	550052	"PS-SPDT-XP Pressure Switch, Explosion Proof, Single-Pole Double-Throw"	2	Call	2767	1383.5			
+MONARCH Industrial Systems	Switches	552173	Micro Switch Extension Kit	0.1	Call	25.25	12.63			
+MONARCH Industrial Systems	Wire Rope/Accessories	15821	"WR-50 Wire Rope, Stainless Steel, 1/16 in. Dia., 50 feet"	0.4	Call	57.25	28.63			
+MONARCH Industrial Systems	Wire Rope/Accessories	79653	"WR-500 Wire Rope, Stainless Steel, 1/16 in. Dia., 500 feet"	4.8	Call	234	117			
+MONARCH Industrial Systems	Wire Rope/Accessories	550121	"SH-100 S-Hooks, Package of 100"	0.7	Call	32	16			
+MONARCH Industrial Systems	Accessories	24751	"BAC-612 Bell, 6 in., 120 VAC"	0.7	Call	181	90.5			
+MONARCH Industrial Systems	Accessories	417788	Swing Check Valve	2.1	Call	439	219.5			
+MONARCH Industrial Systems	Accessories	550235	FR-25SBC Flow Resistor for Local Application using PCI-25SBC	0.1	Call	32.75	16.38			
+MONARCH Industrial Systems	Accessories	550861	"172 Quickseal Adaptor, 3/4? (each)"	0.5	Call	51.75	25.88			
+MONARCH Industrial Systems	Accessories	550862	"175 Quickseal Adaptor, 3/4?, Package of 24"	12.9	Call	1066	533			
+MONARCH Industrial Systems	Accessories	550863	"213 Quikseal Adaptor, 1 in. (each)"	0.9	Call	74.5	37.25			
+MONARCH Industrial Systems	Accessories	550864	"216 Quikseal Adaptor, 1 in., Package of 12"	10.9	Call	764	382			
+MONARCH Industrial Systems	Corner Pulleys/Tee	55813	EMT Compression Connector 1/2 in.	0.08	Call	3.28	1.64			
+MONARCH Industrial Systems	Accessories	550877	VT-2 Dry Valve Tool	0.1	Call	76.25	38.13			
+MONARCH Industrial Systems	Cartridge/Actuation Accessories	550829	PDA-D2 Pneumatic Discharge Adaptor	0.7	Call	83.75	41.88			
+MONARCH Industrial Systems	Accessories	551511	"TD-10 Time Delay, Vehicle Paint Spray Booth"	4.6	Call	379.5	189.75			
+MONARCH Industrial Systems	Accessories	550695	"RC-50-BC Dry Chemical, Sodium Bicarbonate, 50 lb. Pail"	57	Call	142	71			
+MONARCH Industrial Systems	Accessories	551736	Blowdown Adaptor Kit	34.5	Call	110.5	55.25			
+MONARCH Industrial Systems	Accessories	550696	"RC-50-ABC, Dry Chemical, Monoammonium Phosphate, 50 lb. Pail"	59	Call	345	172.5			
+MONARCH Industrial Systems	Spare Parts	550333	"Nozzle Cap, Industrial"	57	Call	15.25	7.63			
+MONARCH Industrial Systems	Spare Parts	550644	"Nozzle Cap for N-LA-BC, N-LA-ABC"	0.1	Call	12	6			
+MONARCH Industrial Systems	ATD-35/75 Rebuild Parts	550812	"Dry Valve Assembly, Complete"	2.5	Call	191	95.5			
+MONARCH Industrial Systems	ATD-35/75 Rebuild Parts	550037	"Rebuilding Kit, Dry Valve"	0.1	Call	35	17.5			
+MONARCH Industrial Systems	Spare Parts	550261	"Washer, Dry Valve"	0.1	Call	5.1	2.55			
+MONARCH Industrial Systems	ATD-35/75 Rebuild Parts	550636	"O-ring, Dry Valve"	0.1	Call	6.65	3.33			
+MONARCH Industrial Systems	ATD-35/75 Rebuild Parts	550805	"Piston, Dry Valve"	0.3	Call	16.5	8.25			
+MONARCH Industrial Systems	Spare Parts	550024	"E-Clip, Dry Valve"	0.1	Call	6.45	3.23			
+MONARCH Industrial Systems	ATDII-35BC/80BC Rebuild Parts	550022	"Spring, Dry Valve"	0.1	Call	6.45	3.23			
+MONARCH Industrial Systems	ATD-35/75 Rebuild Parts	550025	"Pressure Gauge, 350 psi, Dry Valve"	0.1	Call	26	13			
+MONARCH Industrial Systems	Switches	550045	Pressure Switch PSS-1	0.2	Call	294	147			
+MONARCH Industrial Systems	ATD-35/75 Rebuild Parts	550028	"O-Ring, Dry Valve Stem"	0.1	Call	6.6	3.3			
+MONARCH Industrial Systems	ATD-35/75 Rebuild Parts	550029	"O-Ring, Dry Valve Body"	0.1	Call	11	5.5			
+MONARCH Industrial Systems	ATD-35/75 Rebuild Parts	550130	"Recharge Kit, Dry Valve"	0.2	Call	69.5	34.75			
+MONARCH Industrial Systems	Accessories	552182	"DryValve Hydro Test Assembly, ADT 35/75"	1.5	Call	80.75	40.38			
+MONARCH Industrial Systems	Spare Parts	550129	"Nozzle O-Ring, Industrial (Purchase in multiples of 10)"	0.1	Call	3.15	1.57			
+MONARCH Industrial Systems	Spare Parts	550026	"Relief Plug, High Temperature"	0.1	Call	16.25	8.13			
+MONARCH Industrial Systems	Spare Parts	550072	"PC-25T Test Tank, Empty, 25 lb."	22.5	Call	609.5	304.75			
+MONARCH Industrial Systems	Spare Parts	550073	"PC-50T Test Tank, Empty, 50 lb."	34.5	Call	1013	506.5			
+MONARCH Industrial Systems	Spare Parts	551596	"PC-75T Test Tank, Empty, 75 lb."	41	Call	1615	807.5			
+MONARCH Industrial Systems	Spare Parts	55531	Control Head Replacement O-Ring (Not Sold Individually - Must Order Min. 10 pcs. )	0.1	Call	2.09	1.04			
+Pyro-Chem Hand Portable Extinguishers	Brackets	25420	"Bracket Assembly (SY2071, SY2072, CD20, CD20A)"	4.5	Call	262	131			
+Pyro-Chem Hand Portable Extinguishers	Adaptors	438831	10S Conversion Hook (24 pack)	0	Call	49.25	24.63			
+Pyro-Chem Hand Portable Extinguishers	Adaptors	428800	"Hanger Adaptor, Adapts 20 lb. Extinguisher to Water Wall Hook (25 pack)"	0.1	Call	154.5	77.25			
+Pyro-Chem Hand Portable Extinguishers	Adaptors	429644	"Adapter, Hydrostatic Test head Adaptor, Dry Chemical/FE-36 Models"	13.9	Call	215.5	107.75			
+Pyro-Chem Hand Portable Extinguishers	Adaptors	440623	"Adaptor, Recharge, Comb. Models 02, 05, 10, 20"	0	Call	35	17.5			
+Pyro-Chem Hand Portable Extinguishers	Adaptors	429642	"Adaptor Assembly, Recharge"	0.1	Call	55.75	27.88	0.1	"Adaptor Assembly, Recharge"	Call
+Pyro-Chem Hand Portable Extinguishers	Miscellaneous	445690	"Touchup Paint, Tank Red, 12 oz. Spray Can"	1	Call	44.25	22.13			
+Pyro-Chem Hand Portable Extinguishers	Miscellaneous	436049	"Touchup Paint, Tank Red, Brush-In Cap Bottle, .6 fl. Oz."	10	Call	29	14.5			
+Pyro-Chem Hand Portable Extinguishers	Manuals	553298	PYRO-CHEM Instruction Manual	0.25	Call	1.23	0.61			
+AUTOPULSE Z10 Conventional  Panel & Accessories	Panel Accessories and Spare Parts	433937	"Maintenance Switch w/Lamp, Surface"	2	Call	452.5	226.25			
+AUTOPULSE Z10 Conventional  Panel & Accessories	Panel Accessories and Spare Parts	433936	"Maintenance Switch w/Lamp, Flush"	1	Call	282	141			
+AUTOPULSE Z10 Conventional  Panel & Accessories	Panel Accessories and Spare Parts	433940	"Abort Switch, Flush Mount"	1	Call	144.5	72.25			
+AUTOPULSE Z10 Conventional  Panel & Accessories	Releasing Panel	430525	"AUTOPULSE Z-10 Control System, Red, 120/240 VAC"	16.5	Call	1135	567.5			
+AUTOPULSE Z10 Conventional  Panel & Accessories	Supervision Modules	431196	Abort Supervision Module	0.1	Call	37	18.5			
+AUTOPULSE Z10 Conventional  Panel & Accessories	Supervision Modules	430687	Coil Supervision Module (Release Circuit)	1	Call	48.25	24.13			
+AUTOPULSE Z10 Conventional  Panel & Accessories	Panel Accessories and Spare Parts	430693	"Semi-flush trim kit, Red  (4 piece)"	1.8	Call	204	102			
+AUTOPULSE Z10 Conventional  Panel & Accessories	Panel Accessories and Spare Parts	430529	4-Pt Auxiliary Relay Module	1	Call	178	89			
+AUTOPULSE Z10 Conventional  Panel & Accessories	Panel Accessories and Spare Parts	430531	Class-A Adapter Module	1	Call	144	72			
+AUTOPULSE Z10 Conventional  Panel & Accessories	Panel Accessories and Spare Parts	431290	Internal Protective Cover (White Plastic)	0.5	Call	41.25	20.63			
+AUTOPULSE Z10 Conventional  Panel & Accessories	Panel Accessories and Spare Parts	431292	System Board	2	Call	814.5	407.25			
+AUTOPULSE Z10 Conventional  Panel & Accessories	Panel Accessories and Spare Parts	431293	Expansion Relay Keypad	0.5	Call	52.5	26.25			
+AUTOPULSE Z10 Conventional  Panel & Accessories	Panel Accessories and Spare Parts	431297	Battery Harness	0.2	Call	9.7	4.85			
+AUTOPULSE Z10 Conventional  Panel & Accessories	Panel Accessories and Spare Parts	431202	"B-Key, FACU, Ext panels & LCD Annunciator"	0.1	Call	2.55	1.27			
+AUTOPULSE Z10 Conventional  Panel & Accessories	Detectors	430559	Photo Detector 2.8% ULI	0.3	Call	79.5	39.75			
+AUTOPULSE Z10 Conventional  Panel & Accessories	Detectors	430560	"Photo Detector 2.8%, 135oF, ROR ULI"	0.2	Call	94.75	47.38			
+AUTOPULSE Z10 Conventional  Panel & Accessories	Detectors	430562	Photo Detector 3.5% ULI	0.1	Call	79.5	39.75			
+AUTOPULSE Z10 Conventional  Panel & Accessories	Detectors	430565	"Heat Detector, 135oF, ROR ULI"	0.4	Call	43.25	21.63			
+AUTOPULSE Z10 Conventional  Panel & Accessories	Detectors	430566	"Heat Detector, 200oF, ROR ULI"	0.5	Call	34.5	17.25			
+AUTOPULSE Z10 Conventional  Panel & Accessories	Detectors	430567	2-Wire Base w/LED DRIVER ULI	0.3	Call	41.5	20.75			
+AUTOPULSE Z10 Conventional  Panel & Accessories	Detectors	430569	2-Wire Base w/RELAY ULI	0.3	Call	53.75	26.88			
+AUTOPULSE Z10 Conventional  Panel & Accessories	Detectors	430570	2-Wire Base w/REM LED DVR ULI	0.3	Call	72	36			
+AUTOPULSE Z10 Conventional  Panel & Accessories	Detectors	430572	Remote LED Alarm Indicator	0.3	Call	111	55.5			
+AUTOPULSE Z10 Conventional  Panel & Accessories	Batteries and Battery Chargers	417692	"Battery Pack, 7 AH, 24 VDC (2-12 VDC Batteries)"	15	Call	238.5	119.25			
+AUTOPULSE Z10 Conventional  Panel & Accessories	Batteries and Battery Chargers	417693	"Battery Pack, 12 AH, 24 VDC (2-12 VDC Batteries)"	22	Call	494	247			
+AUTOPULSE Z10 Conventional  Panel & Accessories	Batteries and Battery Chargers	417694	"Battery Pack, 18 AH, 24 VDC (2-12 VDC Batteries)"	20	Call	557	278.5			
+AUTOPULSE Z10 Conventional  Panel & Accessories	Batteries and Battery Chargers	417695	"Battery Pack, 25 AH, 24 VDC (2-12 VDC Batteries)"	40	Call	744.5	372.25			
+AUTOPULSE Z10 Conventional  Panel & Accessories	Batteries and Battery Chargers	417997	"Battery Pack, 55 AH, 24 VDC (2-12 VDC Batteries)"	85	Call	1169	584.5			
+AUTOPULSE Z10 Conventional  Panel & Accessories	Miscellaneous Parts	431206	"Laptop Programmer Download Cable, FACUs"	0.25	Call	66.25	33.13			
+AUTOPULSE Z10 Conventional  Panel & Accessories	Miscellaneous Parts	431210	EOL Harness 3.3K 1W	0.1	Call	11.75	5.88			
+AUTOPULSE Z10 Conventional  Panel & Accessories	Miscellaneous Parts	431222	EOL Harness 10K 1/2W	0.1	Call	11.75	5.88			
+AUTOPULSE Z10 Conventional  Panel & Accessories	FM-200 Clean Agent	OP0001	*Requires External Battery Cabinet with 50 AH Charger (430548 or 430550)	0						
+AUTOPULSE Detection and Control Equipment	AUTOPULSE 542 Control Systems	433607	"AUTOPULSE 542R Agent Releasing Control, 120 VAC"	25	Call	2422	1211			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE 542 Control Systems	433608	"AUTOPULSE 542RE Agent Releasing Control, 220 VAC"	25	Call	2422	1211			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE 542 Control Systems	433605	"AUTOPULSE 542D Deluge/Preaction Control Unit, 120 VAC"	24	Call	2422	1211			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE 542 Control Systems	433606	"AUTOPULSE 542DE Deluge/Preaction Control Unit, 220 VAC"	24	Call	2422	1211			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE 542 Accessories	435355	"Remote LCD Annunciator, AP N-ANN-80"	1.5	Call	758.5	379.25			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE 542 Accessories	435356	"LED Driver, AP N-ANN-I/O"	1.5	Call	859	429.5			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE 542 Accessories	435358	"Relay Module, AP N-ANN-RLY"	1.5	Call	606	303			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE 542 Accessories	435897	"Bracket, Relay Module, AP ANN-MBRLY"	1.1	Call	86	43			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE 542 Accessories	435437	"Dress Panel, N-ANN-LED"	3.5	Call	257	128.5			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE 542 Accessories	435438	Programming Cable (for software flash only)	3.5	Call	83.75	41.88			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE 542 Accessories	435439	"Trim Ring, Semi-Flush Mount"	3.5	Call	250	125			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE 542 Accessories	418334	EOL Resistor 4.7 K ohm (PCR 100)	0.1	Call	22.5	11.25		EOL Resistor 4.7 K ohm (PCR 100)	Call
+AUTOPULSE Detection and Control Equipment	AUTOPULSE 542 Accessories	435359	LED Annunciator Module	1.5	Call	868.5	434.25			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE 542 Accessories	439206	Seiskit - Commenc (542)	0	Call	344.5	172.25			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-318 Control Systems	435472	"AUTOPULSE IQ-318 Replacement Board, 120 VAC"	12	Call	5057	2528.5			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-318 Control Systems	435473	"AUTOPULSE IQ-318 Replacement Board, 220 VAC"	12	Call	4608	2304			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-318 / IQ-636X-2 Accessories	435657	NUP Serial Programming Cable	3.5	Call	40.25	20.13			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-318 / IQ-636X-2 Accessories	439012	CAB-BM-G B-size Marine/NEMA type 4 cabinet	10	Call	7454	3727			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-318 / IQ-636X-2 Accessories	439013	PL-BM Mounting Plate	5	Call	788.5	394.25			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-318 / IQ-636X-2 Accessories	439014	"AP-FILTER-KIT1 Marine Ferrite beads, EMI line filters,hdw."	5	Call	747	373.5			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-318 / IQ-636X-2 Accessories	439017	SEISKIT-CAB4	5	Call	326	163			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-318 / IQ-636X-2 Accessories	439019	SEISKIT-320/B26	5	Call	336	168			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-318 / IQ-636X-2 Accessories	438883	"AWS-3 Web Server (for remote access via Internet; event viewing, device status)"	0	Call	4327	2163.5			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	434961	"AUTOPULSE IQ-636X-2 Basic Kit, 120 VAC"	0	Call	7934	3967			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	434956	AUTOPULSE NCA-2 Network Control Annunciator	0	Call	3764	1882			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	419639	"In Line Supervisory Device, REL 47K (Package of 10)"	0.1	Call	221.5	110.75			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	419640	"In Line Supervisory Device, REL 4.7K, Package of 10"	0.1	Call	145	72.5			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	407765	"In Line Supervisory Device, REL 2.2K"	0.1	Call	15.25	7.63			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	433508	LEM-320 Loop Expander Module; expands IQ-636x to two SLCs.	0.1	Call	2595	1297.5			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	433613	KDM-R2 Keyboard Display Module	3	Call	2481	1240.5			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	435598	"Door, lock & keys.  Accepts 1 chassis, red"	14	Call	566	283			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	433526	"Backbox, 1 chassis, red.  Door not included."	21.5	Call	360	180			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	435599	"Door, lock & keys.  Accepts 2 chassis, red"	18	Call	668.5	334.25			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	433527	"Backbox, 2 chassis, red. Door not included."	26.5	Call	505	252.5			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	435600	"Door, lock & keys.  Accepts 3 chassis, red"	21	Call	973.5	486.75			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	433529	"Backbox, 3 chassis, red. Door not included."	33	Call	793.5	396.75			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	435601	"Door, lock & keys.  Accepts 4 chassis, red"	25	Call	1201	600.5			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	433532	"Backbox, 4 chassis, red. Door not included."	33	Call	951	475.5			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	433534	A   Size Trim ring for the CAB-4 or CAB-3 Series. Black.	3	Call	298	149			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	433535	B   Size Trim ring for the CAB-4 or CAB-3 Series. Black.	3	Call	298	149			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	433589	C   Size Trim ring for the CAB-4 or CAB-3 Series. Black.	3.5	Call	298	149			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	433590	D   Size Trim ring for the CAB-4 or CAB-3 Series. Black	4	Call	305.5	152.75			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	433520	"ADP-4B Annunciator Dress Plate, Same as ADP-4 but painted black"	0	Call	138.5	69.25			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	432794	"BMP-1, Blank Module Plate; fills blank mod spaces (replaces ABM-1 & BM-1)"	0.1	Call	68	34			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	433614	"Dress Plate, AP-DP-DISP2 (when CPU2-636 is mounted on top row)"	3.5	Call	172	86			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	433615	"Dress Plate, AP-ADP-2-636 (when CPU2-636 is mounted on 2nd, 3rd or 4th row"	3	Call	172	86			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	433616	"Chassis, NCA-2 in AP-CHS-2D"	2.5	Call	96	48			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	419586	"CHS-4, Chassis, mounts up to four panel modules."	3.5	Call	232.5	116.25			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	418576	"Annunciator Chassis, CHS-4L, Low Profile, For Up To 4 LDM Modules"	1	Call	193.5	96.75			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	433493	"CHS4-MB, 2nd Row chassis.  Includes MP-1B, CHS-4N, expander ribbon cble."	8	Call	402.5	201.25			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	433521	"DP-1B, Blank Plate, same as DP-1 painted black"	3.5	Call	101	50.5			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	433497	"DP-DISP, Display Dress Plate, black."	3	Call	147	73.5			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	433597	"NFS-LBBR, Large Battery Backbox, houses up to 60 AH batteries, red."	27.5	Call	627.5	313.75			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	433594	"FCPS24S6, 24 Volt / 6 Amp Power Supply with Sync"	21.5	Call	1154	577			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	433595	"FCPS24S8, 24 Volt / 8 Amp Power Supply with Sync"	22	Call	1299	649.5			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	434953	"AUTOPULSE IQ-636X-2 CPU, 120 VAC"	15	Call	4382	2191			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	434954	"AUTOPULSE IQ-636X-2 CPU, 220 VAC"	15	Call	4382	2191			
+AUTOPULSE Detection and Control Equipment	Batteries and Battery Chargers	417692	"Battery Pack, 7 AH, 24 VDC (2-12 VDC Batteries)"	15	Call	238.5	119.25			
+AUTOPULSE Detection and Control Equipment	Batteries and Battery Chargers	417693	"Battery Pack, 12 AH, 24 VDC (2-12 VDC Batteries)"	22	Call	494	247			
+AUTOPULSE Detection and Control Equipment	Batteries and Battery Chargers	417694	"Battery Pack, 18 AH, 24 VDC (2-12 VDC Batteries)"	20	Call	557	278.5			
+AUTOPULSE Detection and Control Equipment	Batteries and Battery Chargers	417695	"Battery Pack, 25 AH, 24 VDC (2-12 VDC Batteries)"	40	Call	744.5	372.25			
+AUTOPULSE Detection and Control Equipment	Batteries and Battery Chargers	417997	"Battery Pack, 55 AH, 24 VDC (2-12 VDC Batteries)"	85	Call	1169	584.5			
+AUTOPULSE Detection and Control Equipment	Batteries and Power Supplies	418578	"Battery Box, Red, BB-17, Holds 18 AH Battery Pack"	2	Call	192	96			
+AUTOPULSE Detection and Control Equipment	Batteries and Power Supplies	428079	"Cabinet, Black BB-25, Holds (6) XP Modules or 25 AH Battery Pack"	15	Call	339.5	169.75			
+AUTOPULSE Detection and Control Equipment	Batteries and Power Supplies	419410	"Battery Box, BB-55, Red"	30	Call	685	342.5			
+AUTOPULSE Detection and Control Equipment	Batteries and Power Supplies	426207	"Battery Charger, CHG-120"	20	Call	1985	992.5			
+AUTOPULSE Detection and Control Equipment	Batteries and Power Supplies	418563	"Power Supply, Remote, FCPS-24F, 120 VAC, Red"	25	Call	1452	726			
+AUTOPULSE Detection and Control Equipment	Batteries and Power Supplies	435807	"Power Supply/Charger, Addressable, ACPS-610"	7	Call	2774	1387			
+AUTOPULSE Detection and Control Equipment	Batteries and Power Supplies	439057	Battery Pack BAT-12120-BP	1	Call	1594	797			
+AUTOPULSE Detection and Control Equipment	Batteries and Power Supplies	439058	Battery Pack BAT-1270-BP	2	Call	825	412.5			
+AUTOPULSE Detection and Control Equipment	Batteries and Power Supplies	470599	"Surge Suppressor, 30VDC"	0.5	Call	415.5	207.75			
+AUTOPULSE Detection and Control Equipment	Transmitter/Relay Modules	417470	"Module, 4XTM, Transmitter, Municipal Box & Remote Station, 442"	2	Call	252	126			
+AUTOPULSE Detection and Control Equipment	Transmitter/Relay Modules	419635	Ferrite Core	0.5	Call	39.25	19.63			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	428097	"Module, FMM-1, Monitor"	1	Call	158.5	79.25			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	432294	"Module, FDM-1, Dual-Input Monitor"	1	Call	275.5	137.75			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	428098	"Module, FMM-101, Mini Monitor"	1	Call	140	70			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	417480	"Module, Isolator, ISO-X"	2	Call	186.5	93.25			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	428100	"Module, FZM-1, Monitor (2-Wire Detector)"	1	Call	289.5	144.75			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	428101	"Module, FCM-1, Control, NAC"	1	Call	221.5	110.75			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	436861	"Module, FCM-1-REL Releasing Module"	1	Call	468	234			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	428102	"Module, FRM-1, Control, Relay"	1	Call	207.5	103.75			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	439333	"Module, FDRM-1, Relay"	1	Call	617.5	308.75			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	432714	"Module, XP10-M, Monitor, Transponder, 10 Circuits"	2	Call	1403	701.5			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	432715	"Module XP6-C, Control, Transponder, 6 NACs"	2	Call	1195	597.5			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	432716	"Module, XP6-R, Control, Transponder, 6 Relays"	1	Call	1154	577			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	437637	Six Zone Interface Module - XP6-MA	0	Call	1253	626.5			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	432287	"Detector, Analog Addressable, FSI-851, Ionization"	1	Call	199	99.5			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	432288	"Detector, Analog Addressable, FSP-851, Photoelectric"	1	Call	215	107.5			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	432289	"Detector, Analog Addressable, FSP-851T, Photo/Thermal (135 deg. F)"	1	Call	257	128.5			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	432290	"Detector, Analog Addressable, FST-851, Thermal (135 deg. F)"	1	Call	145	72.5			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	432291	"Detector, Analog Addressable, FST-851R, Thermal (135 deg. F+Rate of Rise)"	1	Call	158.5	79.25			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	432292	"Detector, Analog Addressable, FST-851H, High Temp. Thermal (190 deg. F)"	1	Call	159.5	79.75			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	432293	"Detector, Analog Addressable, FAPT-851, Acclimate Plus Multi-Sensor"	1	Call	250	125			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	433503	"Detector, Analog Addressable, FSL-751, View Laser Smoke"	1	Call	477	238.5			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	417487	"Detector Base, Analog Addressable, B501, Flangeless"	1	Call	33.25	16.63			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	434121	"Detector Base, Flangeless (10 Pack)"	2.3	Call	329	164.5			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	426125	"Detector Base, Analog Addressable, B224BI, with Isolator"	1	Call	125.5	62.75			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	438966	"B210LP 6in Flanged Intelligent Detector Base, Low Profile"	0.35	Call	32.25	16.13			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	438971	"B210LPBP 6in Flanged Intelligent Detector Base, Low Profile (Pack of 10)"	2.8	Call	301	150.5			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	438967	"Accessory Flange Ring, B210LP Base (New Design)"	2.8	Call	12.25	6.13			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	428138	"Trim Ring, Low Profile, F110 (converts BX501 to low profile base)"	1	Call	12	6			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	423945	"Relay Base, B224RB"	1	Call	122	61			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	417699	"Relay, EOL Power Supervision Relay"	1	Call	70.25	35.13			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	437019	DCOIL - InnovairFlex Duct Accessory Coil	0.5	Call	66.25	33.13			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	436969	"DNR - InnovairFlex Intelligent Duct Detector, Non-Relay"	4.5	Call	224.5	112.25			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	436970	"DNRW - InnovairFlex Intelligent Duct Detector, Non-Relay"	4.5	Call	379.5	189.75			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	436966	Metal Sampling Tube DST3 (Duct Widths up to 2 ft. to 4 ft (0.6 to 1.2m))	0	Call	38	19			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	436967	Metal Sampling Tube DST5 (Duct Widths up to 4 ft. to 8 ft. (1.2 to 2.4m))	0	Call	43.25	21.63			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	436968	Metal Sampling Tube DST10 (Duct Widths up to 8 ft. to 12 ft. (2.4 to 3.7m))	0	Call	92	46			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	436971	"Remote Annunciator, RA100Z"	0.25	Call	83.75	41.88			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	436972	Remote Test Station RTS151	0	Call	112.5	56.25			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	428078	"Cabinet, BB-XP, Holds (2) XP Modules"	7	Call	193.5	96.75			
+AUTOPULSE Detection and Control Equipment	Batteries and Power Supplies	428079	"Cabinet, Black BB-25, Holds (6) XP Modules or 25 AH Battery Pack"	15	Call	339.5	169.75			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	428080	"Chassis, CHS-6, for BB-25"	2	Call	101	50.5			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-318 Control Systems	434957	"AUTOPULSE IQ-318 Control System, 120 VAC"	37	Call	6150	3075			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-318 Control Systems	434959	"AUTOPULSE IQ-318E Control System, 220 VAC"	37.5	Call	6150	3075			
+AUTOPULSE Detection and Control Equipment	Annunciators	435530	"Annunciator, FDU-80G"	1.5	Call	1418	709			
+AUTOPULSE Detection and Control Equipment	Annunciators	436141	"Surface Mount Backbox, SBB-3"	2	Call	54.5	27.25			
+AUTOPULSE Detection and Control Equipment	Annunciators	436996	"Surface Mount Backbox (for UDACT), ABS-8RB"	1	Call	280.5	140.25			
+AUTOPULSE Detection and Control Equipment	Annunciators	438773	"Annunciator Terminal Mode, LCD2-80"	1	Call	1939	969.5			
+AUTOPULSE Detection and Control Equipment	Annunciators	417501	"Annunciator Lamp Driver Control Module, LDM-32"	2	Call	1101	550.5			
+AUTOPULSE Detection and Control Equipment	Annunciators	417502	"Annunciator Lamp Driver Expander Module, LDM-E32"	2	Call	883	441.5			
+AUTOPULSE Detection and Control Equipment	Annunciators	417650	"Annunciator Lamp Driver Relay Module, LDM-R32"	2	Call	1626	813			
+AUTOPULSE Detection and Control Equipment	Annunciators	417651	"Annunciator Lamp Driver Cable, LDM-CBL24, 24 in."	0.5	Call	335	167.5			
+AUTOPULSE Detection and Control Equipment	Annunciators	417652	"Annunciator Lamp Driver Cable, LDM-CBL48, 48 in."	1	Call	418.5	209.25			
+AUTOPULSE Detection and Control Equipment	Annunciators	417653	"Annunciator Control Module, ACM-8R,  with 8 Relays"	2	Call	833.5	416.75			
+AUTOPULSE Detection and Control Equipment	Annunciators	417657	"Annunciator Back Box, Flush, Single, ABF-1"	1	Call	685	342.5			
+AUTOPULSE Detection and Control Equipment	Annunciators	417660	"Annunciator Accessory, Key Switch, AKS-1"	1	Call	139	69.5			
+AUTOPULSE Detection and Control Equipment	AUTOPULSE IQ-636X-2 and Modules	418576	"Annunciator Chassis, CHS-4L, Low Profile, For Up To 4 LDM Modules"	1	Call	193.5	96.75			
+AUTOPULSE Detection and Control Equipment	Smoke Detectors	435893	"Photoelectric, 2 W-G, 2 Wire"	1	Call	104	52			
+AUTOPULSE Detection and Control Equipment	Smoke Detectors	435894	"Photoelectric, 2 WT-B, 2 Wire with 135 degree Fixed Thermal Sensor"	1	Call	114	57			
+AUTOPULSE Detection and Control Equipment	Smoke Detectors	435895	"Photoelectric, 4 W-B, 4 Wire"	1	Call	107.5	53.75			
+AUTOPULSE Detection and Control Equipment	Smoke Detectors	435896	"Photoelectric, 4WT-B, 4 Wire with 135 degree Fixed Thermal Sensor"	1	Call	119.5	59.75			
+AUTOPULSE Detection and Control Equipment	Smoke Detectors	430023	"Detector, Smoke, Photoelectric, Low Profile, 2151"	2	Call	125.5	62.75			
+AUTOPULSE Detection and Control Equipment	Smoke Detectors	430025	"Detector Base, 6 in. dia., B110LP (442R/442D/IQ-301)"	2	Call	32.25	16.13			
+AUTOPULSE Detection and Control Equipment	Smoke Detectors	430026	"Detector Base, 4 in. dia., B401 (442R/442D/IQ-301)"	2	Call	32.25	16.13			
+AUTOPULSE Detection and Control Equipment	Intelligent Addressable Devices (IQ-318/IQ-636X-2)	428138	"Trim Ring, Low Profile, F110 (converts BX501 to low profile base)"	1	Call	12	6			
+AUTOPULSE Detection and Control Equipment	Smoke Detectors	437636	"Detector, Smoke, Photo, FSP-851R"	1	Call	215	107.5			
+AUTOPULSE Detection and Control Equipment	Smoke Detectors	427596	"Detector, Smoke, Photoelec. SLR-24, Low Profile (Qty. Discount 50+)"	1	Call	145	72.5			
+AUTOPULSE Detection and Control Equipment	Smoke Detectors	427597	"Detector, Smoke, Combination Photo/Heat, SLR-24H"	1	Call	258	129			
+AUTOPULSE Detection and Control Equipment	Smoke Detectors	427598	Detector Base NS6-224 for SIJ -24 & SLR-24 Det. (442R/442D/FZM-1)	0.5	Call	35.75	17.88			
+AUTOPULSE Detection and Control Equipment	Smoke Detectors	427599	"Detector Base, NS4-224, (Small) for SIJ-24&SLR 24 Det.(442R/442D/FZM-1)"	0.5	Call	35	17.5			
+AUTOPULSE Detection and Control Equipment	Smoke Detectors	416849	"Detector Base Relay, HSC-224R, for SIJ-24 & SLR-24 Detectors"	0.5	Call	86.75	43.38			
+AUTOPULSE Detection and Control Equipment	Smoke Detectors	417457	"Detector Base Relay, HSB-21, for SIJ-24 & SLR-24 Detectors (FOUR)"	0.5	Call	35.75	17.88			
+AUTOPULSE Detection and Control Equipment	Detectors	13970	"Detector, Heat, Rate Compensated, 190 deg.F, Vert."	0.3	Call	354	177			
+AUTOPULSE Detection and Control Equipment	Fusible Links/Detectors/Accessories	13976	"Detector, Heat, Rate Compensated, 225 deg.F, Vert. (Qty. discount 50+)"	0.3	Call	354	177			
+AUTOPULSE Detection and Control Equipment	Heat Detectors	4727	"Detector, Heat, Rate Compensated, 140 deg.F, Vert."	0.3	Call	334	167			
+AUTOPULSE Detection and Control Equipment	Detectors	13970	"Detector, Heat, Rate Compensated, 190 deg.F, Vert."	0.3	Call	354	177			
+AUTOPULSE Detection and Control Equipment	Heat Detectors	404751	"Detector, Heat, Rate Compensated, 160 deg.F, Vert."	0.3	Call	334	167			
+AUTOPULSE Detection and Control Equipment	Fusible Links/Detectors/Accessories	13975	"Detector, Heat, Rate Compensated, 325 deg.F, Vert. (Qty. discount 50+)"	0.3	Call	326	163			
+AUTOPULSE Detection and Control Equipment	Fusible Links/Detectors/Accessories	13974	"Detector, Heat, Rate Compensated, 450 deg.F, Vert. (Qty. discount 50+)"	0.3	Call	341.5	170.75			
+AUTOPULSE Detection and Control Equipment	Fusible Links/Detectors/Accessories	13971	"Detector, Heat, Rate Compensated, 600 deg.F, Vert. (Qty. discount 50+)"	0.3	Call	354	177			
+AUTOPULSE Detection and Control Equipment	Heat Detectors	13977	"Detector, Heat, Rate Compensated, 725 deg.F, Vert."	0.3	Call	354	177			
+AUTOPULSE Detection and Control Equipment	Heat Detectors	71226	"Detector, Heat, Rate Compensated, 190 deg.F, Horz."	0.3	Call	472	236			
+AUTOPULSE Detection and Control Equipment	Heat Detectors	71227	"Detector, Heat, Rate Compensated, 225 deg.F, Horz."	0.3	Call	472	236			
+AUTOPULSE Detection and Control Equipment	Heat Detectors	71228	"Detector, Heat, Rate Compensated, 275 deg.F, Horz."	0.3	Call	472	236			
+AUTOPULSE Detection and Control Equipment	Heat Detectors	71229	"Detector, Heat, Rate Compensated, 325 deg.F, Horz."	0.3	Call	472	236			
+AUTOPULSE Detection and Control Equipment	Heat Detectors	14286	Detector Heat Trap	0.5	Call	222.5	111.25			
+AUTOPULSE Detection and Control Equipment	Flame Detectors	417934	"Detector, Flame, Spectrex, UV/IR Explosion-proof, Model 20/20LB"	9	Call	7892	3946			
+AUTOPULSE Detection and Control Equipment	Flame Detectors	417935	"Detector, Flame, Spectrex, IR3 Explosion-proof, Model 20/20I"	9	Call	6905	3452.5			
+AUTOPULSE Detection and Control Equipment	Flame Detectors	417936	"Detector Swivel Mount, Spectrex, Model 20/20-003(For 20/20LB& 20/20I)"	2	Call	348.5	174.25			
+AUTOPULSE Detection and Control Equipment	Flame Detectors	417937	"Detector Air Shield, Spectrex, Model 20/20-960"	2	Call	399.5	199.75			
+AUTOPULSE Detection and Control Equipment	Flame Detectors	437167	"Fire Simulator, Spectrex Long Range 20/20 311"	0	Call	11920	5960			
+AUTOPULSE Detection and Control Equipment	Flame Detectors	436834	"Detector, Flame, Spectrex, UV/IR Explosion-proof, Model 40/40"	9	Call	5873	2936.5			
+AUTOPULSE Detection and Control Equipment	Flame Detectors	436833	"Detector, Flame, Spectrex, IR3 Explosion-proof, Model 40/40"	9	Call	7431	3715.5			
+AUTOPULSE Detection and Control Equipment	Flame Detectors	436835	"Detector Swivel Mount, Spectrex, Model 40/40"	2	Call	323	161.5			
+AUTOPULSE Detection and Control Equipment	Flame Detectors	436836	"Detector Air Shield, Spectrex, Model 40/40"	2	Call	1155	577.5			
+AUTOPULSE Detection and Control Equipment	Flame Detectors	470223	"Fire Simulator, IR3, Spectrex 20/20-310"	10	Call	13700	6850			
+AUTOPULSE Detection and Control Equipment	Flame Detectors	426302	"Detector, DCR1-S1 UV/IR"	1	Call	3415	1707.5			
+AUTOPULSE Detection and Control Equipment	Flame Detectors	426624	"Detector, DCR1-T1, Self-Test"	1	Call	3626	1813			
+AUTOPULSE Detection and Control Equipment	Flame Detectors	427085	"Detector, DCR-1, Test Device"	1	Call	3822	1911			
+AUTOPULSE Detection and Control Equipment	Flame Detectors	407738	"Detector, Flame, Red 1-ST, UV/IR"	5	Call	5962	2981			
+AUTOPULSE Detection and Control Equipment	Flame Detectors	407739	"Base, Swivel, RED1 Flame Detector"	1	Call	488.5	244.25			
+AUTOPULSE Detection and Control Equipment	Flame Detectors	470809	"Detector, Flame, FS7-2RP Unitized"	1	Call	3930	1965			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	433352	"Strobe, Multi-Candela, AGENT, Red"	2	Call	112.5	56.25			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	433356	"Horn/Strobe, Multi Candela, FIRE, Red"	2	Call	168.5	84.25			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	433357	"Horn/Strobe, Multi Candela, AGENT, Red"	2	Call	168.5	84.25			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	417806	"Bell, 24 VDC, 10 in."	2.4	Call	125	62.5			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	24747	"WBB-R, Surface Mount Back Box, Weatherproof"	1.2	Call	62.5	31.25			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	439032	"WBB - Back Box, Weatherproof"	1.2	Call	62.5	31.25			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	439030	"Bell, 24 VDC, 6 in., (motor driven)"	1.8	Call	117.5	58.75			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	417805	"Bell, 24 VDC, 6 in."	1.8	Call	116	58			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	439031	"Bell, 24 VDC, 10 in., (motor driven)"	2.4	Call	138	69			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	65947	"Horn, Explosion-Proof , Class 1 - Div. 1, Polarized"	10	Call	3214	1607			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	431526	"Horn/Strobe, Weatherproof, 75 Canadela, FIRE"	2	Call	231.5	115.75			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	429697	"Horn, 24 VDC, Multitone, FIRE"	2	Call	102.5	51.25			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	429698	"Strobe, Multi Candela, FIRE, Red"	2	Call	173.5	86.75			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	433353	"Strobe, Weatherproof, 75 Candela, FIRE, Red"	2	Call	209	104.5			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	433354	"Strobe, Weatherproof, 75 Candela, AGENT, Red"	2	Call	209	104.5			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	433355	"Strobe, Weatherproof, Back Box, Red"	2	Call	55.5	27.75			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	433358	"Shallow Surface Back Box, Red (RSS Series)"	2	Call	38.75	19.38			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	429700	"IOB-R Surface Back Box, Weatherproof (Horn/Strobe only)"	0.5	Call	58.75	29.38			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	429701	Semi-Flush Plate	1	Call	25.75	12.88			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	429702	"Adapter, Back Box Extender"	1	Call	24	12			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	435754	CHR Chime	1	Call	68	34			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	438077	"BBS-2 Backbox Skirt, Wall"	1	Call	16	8			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	438076	MDL3R Sync-Circuit Module	1	Call	131	65.5			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	435747	"P2R 2-wire horn/strobe, standard cd"	1	Call	120.5	60.25			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	438153	"P2RH 2-wire horn/strobe, high cd"	1	Call	125.5	62.75			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	435884	"P2RK 2 wire horn/strobe, standard cd, outdoor"	1	Call	145	72.5			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	438144	"P2RHK 2-wire horn/strobe, high cd, outdoor"	1	Call	161.5	80.75			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	435749	"P4R 4-wire horn/strobe, standard cd"	1	Call	134	67			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	438155	"P4RH 4-wire horn/strobe, high cd"	1	Call	136	68			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	435886	"P4RK 4-wire horn/strobe, standard cd, outdoor"	1	Call	159.5	79.75			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	435748	"PC2R 2-wire horn/strobe, standard cd"	1	Call	117.5	58.75			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	435885	"PC2RK 2-wire horn/strobe, standard cd, outdoor"	1	Call	145	72.5			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	438148	"PC2RHK 2-wire horn/strobe, high cd, outdoor"	1	Call	161.5	80.75			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	435751	"SR Strobe, standard cd"	1	Call	93.25	46.63			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	438157	"SRH Strobe, high cd"	1	Call	96	48			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	438146	"SRK Strobe, standard cd, outdoor"	1	Call	111	55.5			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	438147	"SRHK Strobe, high cd, outdoor"	1	Call	122	61			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	435752	"SCR Strobe, standard cd"	1	Call	93.25	46.63			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	438151	"SCRHK Strobe, high cd, outdoor"	1	Call	123	61.5			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	435753	HR Horn	0	Call	52.75	26.38			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	438152	"HRK Horn, outdoor"	0	Call	82.75	41.38			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	438068	"LENS-B Wall-mount lens attachment, blue"	1	Call	19	9.5			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	438069	"LENS-R Wall-mount lens attachment, red"	1	Call	19.25	9.63			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	438070	"LENS-G Wall-mount lens attachment, green"	1	Call	19	9.5			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	438071	"LENS-A Wall-mount lens attachment, amber"	1	Call	19.25	9.63			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	438073	"LENS-RC Ceiling-mount lens attachment, red"	1	Call	19.25	9.63			
+AUTOPULSE Detection and Control Equipment	Alarm Devices	438162	"SA-WBBC Weatherproof back box, ceiling"	0.01	Call	36.25	18.13			
+AUTOPULSE Detection and Control Equipment	Manual Pull Stations	435471	"Pull Station, AUTOPULSE, NBG-12LR"	1	Call	140.5	70.25			
+AUTOPULSE Detection and Control Equipment	Manual Pull Stations	418990	SB-10 Surface Backbox	1	Call	32.5	16.25			
+AUTOPULSE Detection and Control Equipment	Manual Pull Stations	428655	"Pull Station, Dual Action, SPST"	1	Call	103.5	51.75			
+AUTOPULSE Detection and Control Equipment	Manual Pull Stations	428656	"Pull Station, Dual Action, DPST"	1	Call	145	72.5			
+AUTOPULSE Detection and Control Equipment	Manual Pull Stations	428657	"Pull Station, Explosion Proof, Dual Action, DPDT"	5	Call	1125	562.5			
+AUTOPULSE Detection and Control Equipment	Manual Pull Stations	428658	"Pull Station, *Addressable Ready, Dual Action, SPST (*FMM-101 not included)"	1	Call	125.5	62.75			
+AUTOPULSE Detection and Control Equipment	Manual Pull Stations	428659	Weatherproof Backbox	1	Call	93.75	46.88			
+AUTOPULSE Detection and Control Equipment	Manual Pull Stations	428660	Surface Mount Backbox	1	Call	34.5	17.25			
+AUTOPULSE Detection and Control Equipment	Manual Pull Stations	471829	Backbox	1	Call	29.75	14.88			
+AUTOPULSE Detection and Control Equipment	Pull Stations/Accessories	428661	"Break Rod for RPS-E2 Pull Station,2 in. L x1/4 in. Dia.,  Package of 12"	1	Call	26.25	13.13			
+AUTOPULSE Detection and Control Equipment	Manual Pull Stations	418336	"Key (AUTOPULSE 442, IQ-301, IQ-396X, BGX-101L Pull Station)"	0.5	Call	17.75	8.88		"Key (BGX-101L Pull Station) (PCR 100, PCR 400 IP)"	Call
+AUTOPULSE Detection and Control Equipment	Manual Pull Stations	428654	Pull Station Labels	0.5	Call	16	8			
+AUTOPULSE Detection and Control Equipment	Manual Pull Stations	428099	"Pull Station, Addressable (NBG12LX)"	1	Call	257	128.5			
+AUTOPULSE Detection and Control Equipment	Accessory Switches	76494	"Switch, Abort, Surface Mount"	1	Call	222.5	111.25			
+AUTOPULSE Detection and Control Equipment	Accessory Switches	76495	"Switch, Abort, Flush Mount"	1	Call	199	99.5			
+AUTOPULSE Detection and Control Equipment	Accessory Switches	65956	"Switch, Abort, Explosion-Proof"	5	Call	774.5	387.25			
+AUTOPULSE Detection and Control Equipment	Accessory Switches	76496	"Switch, Main/Reserve, Surface Mount"	1	Call	297	148.5			
+AUTOPULSE Detection and Control Equipment	Accessory Switches	76497	"Switch, Main/Reserve, Flush Mount"	1	Call	283.5	141.75			
+AUTOPULSE Detection and Control Equipment	Accessory Switches	76498	"Switch, Maintenance, Surface Mount"	2	Call	396	198			
+AUTOPULSE Detection and Control Equipment	Accessory Switches	76499	"Switch, Maintenance, Flush Mount"	2	Call	381.5	190.75			
+AUTOPULSE Detection and Control Equipment	Accessory Switches	76490	"Back Box, Single Gang, Surface Mount (for 76495, 76497, 24741, 24742)"	1	Call	58.75	29.38			
+AUTOPULSE Detection and Control Equipment	Accessory Switches	436982	"Contact Block, Normally Open"	0.03	Call	16.25	8.13			
+AUTOPULSE Detection and Control Equipment	Accessory Switches	436983	"Contact Block, Normally Closed"	0.03	Call	16.25	8.13			
+AUTOPULSE Detection and Control Equipment	Service and Test Accessories	415730	"Smoke Detector Test Magnet, Hochiki"	0.5	Call	41.25	20.63			
+AUTOPULSE Detection and Control Equipment	Service and Test Accessories	417675	"Smoke Detector Test Magnet, System Sensor, M02-04"	0.5	Call	16.25	8.13			
+AUTOPULSE Detection and Control Equipment	Service and Test Accessories	405491	"Punk Stick, TSE-P-100, for TSE-A101"	0.5	Call	49	24.5			
+AUTOPULSE Detection and Control Equipment	Service and Test Accessories	470426	"Test Tool, NSTT-A100 (SIJ-24, SLR-24)"	5	Call	360	180			
+AUTOPULSE Detection and Control Equipment	Service and Test Accessories	442850	PRN-7 Printer	9.1	Call	3801	1900.5			
+Replacement Parts/Detection and Control  Equipment	All	436863		0		1353	676.5		"Auxiliary Power Supply, APS2-6R (6 amp, 120 V)"	Call
+Replacement Parts/Detection and Control  Equipment	All	436864		0		1327	663.5		"Auxiliary Power Supply, APS2-6RE (6 amp, 220 V)"	Call
+Replacement Parts/Detection and Control  Equipment	All	417886		0					Control Board 120 VAC (8th Edition) (PCR 100)	Call
+Replacement Parts/Detection and Control  Equipment	All	417471		0		790.5	395.25		"Module, RTM-8, Relay/Transmitter,  8 Form C Relay Contacts (PCR 400 IP)"	Call
+Replacement Parts/Detection and Control  Equipment	All	417881		0					"Module, 4XZM, Zone Relay"	Call
+Replacement Parts/Detection and Control  Equipment	AUTOPULSE 542 Accessories	418334	EOL Resistor 4.7 K ohm (PCR 100)	0.1	Call	22.5	11.25		EOL Resistor 4.7 K ohm (PCR 100)	Call
+Replacement Parts/Detection and Control  Equipment	All	418340		0		25.25	12.63		EOL Resistor 47 K ohm (PCR 400 IP)	Call
+Replacement Parts/Detection and Control  Equipment	All	418335		0		202.5	101.25		"Transformer Assembly, 120 VAC (PCR 100)"	Call
+Replacement Parts/Detection and Control  Equipment	All	418337		0		86.75	43.38		"Battery Harness (PCR 100, PCR 400 IP)"	Call
+Replacement Parts/Detection and Control  Equipment	Manual Pull Stations	418336	"Key (AUTOPULSE 442, IQ-301, IQ-396X, BGX-101L Pull Station)"	0.5	Call	17.75	8.88		"Key (BGX-101L Pull Station) (PCR 100, PCR 400 IP)"	Call
+Replacement Parts/Kitchen One KS6000	All	430270		0		157	78.5		Valve Assembly	Call
+Replacement Parts/Kitchen One KS6000	All	430924		0		8.7	4.35		Lever	Call
+Replacement Parts/Kitchen One KS6000	All	430273		0		8.1	4.05		Handle	Call
+Replacement Parts/Kitchen One KS6000	All	430115		0		2.47	1.23		Ring Pin	Call
+Replacement Parts/Kitchen One KS6000	All	430250		0		1.59	0.8		Rivet	Call
+Replacement Parts/Kitchen One KS6000	All	429536		0		14.75	7.38		Gauge	Call
+Replacement Parts/Kitchen One KS6000	All	430274		0		9.65	4.83		Collar Nut	Call
+Replacement Parts/Kitchen One KS6000	All	56909		0		0.76	0.38		Collar O-Ring	Call
+Replacement Parts/Kitchen One KS6000	All	429099		0		5.25	2.63		Valve Stem	Call
+Replacement Parts/Kitchen One KS6000	All	430004		0		3.15	1.57		Spring	Call
+Replacement Parts/Kitchen One KS6000	All	429541		0		7.4	3.7		FillTube	Call
+Replacement Parts/Kitchen One KS6000	All	427995		0		3.04	1.52		Belly Band	Call
+Replacement Parts/Kitchen One KS6000	All	429544		0		0.69	0.35		Hose O-Ring	Call
+Replacement Parts/Kitchen One KS6000	Brackets	451409	"Wall Hanger (K-Guard, Water, Kitchen One)"	0.1	Call	3.25	1.63		Wall Hanger	Call
+Replacement Parts/Kitchen One KS6000	Brackets	422737		0		138.5	69.25		"Bracket, Heavy Duty, Fits Kitchen One, FE-09"	Call
+Replacement Parts/Kitchen One KS6000	All	439495		0		49.25	24.63	1	KS-6100 Hose Assembly	Call
+Replacement Parts/Kitchen One KS6000	All	439713		0		61.5	30.75	1	KS-6100 Tube Assembly	Call
