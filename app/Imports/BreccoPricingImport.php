@@ -9,8 +9,7 @@ use Maatwebsite\Excel\Concerns\WithMultipleSheets;
 use Maatwebsite\Excel\Concerns\WithStartRow;
 use Maatwebsite\Excel\DefaultValueBinder;
 
-class BreccoPricingImport extends DefaultValueBinder implements ToModel, SkipsEmptyRows, WithMultipleSheets,
-    withHeadingRow, WithCustomCsvSettings, WithStartRow
+class BreccoPricingImport extends DefaultValueBinder implements ToModel, SkipsEmptyRows, withHeadingRow, WithCustomCsvSettings, WithStartRow
 {
 
     /**
@@ -19,14 +18,13 @@ class BreccoPricingImport extends DefaultValueBinder implements ToModel, SkipsEm
     * @return \Illuminate\Http\Response
     * @return \Illuminate\Database\Eloquent\Model|null
     */
-
-
     //options
-    function sheets(): array
-    {
-        $sheetarray = array_fill(0,40,$this);
-        return $sheetarray;
-    }
+    // function sheets(): array
+    // {
+    //     dd($request);    
+    //     $sheetarray = array_fill(0,40,$this);
+    //     return $sheetarray;
+    // }
     function startRow(): int
     {
         return 8;

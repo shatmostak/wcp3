@@ -1,0 +1,14 @@
+{
+    $table: {}
+    $table->string('company');
+    $table->string('item', 1020)->nullable();
+    $table->string('item_code');
+    $table->string('item_code_2')->nullable();
+    $table->integer('quantity')->default(1);
+    $table->decimal('item_cost', 13, 2);
+    $table->string('cost_type')->default('EA');
+    $table->decimal('unit_cost', 9, 2)->nullable();
+    $table->decimal('extra_cost_2', 9, 2)->nullable();
+    $table->decimal('extra_cost_3', 9, 2)->nullable();
+    $table->timestamps();
+}

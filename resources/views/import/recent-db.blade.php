@@ -1,46 +1,92 @@
 @extends('BASE.base')
-@section('dbshow')
+@section('recent')
     <br><br>
-    <div class="container mt-5 text-center">
+    <div class="container text-center">
         <div class="col-md-1"></div>
         <div class="col-md-10">
             <div class="d-md-inline">
-                <h2> Price Table </h2>
-                    <div class="card-body">
+            <br><br>
+ 
+
+                <h2> Recent Item Costs </h2>
+
+
+                <div class="card-body">
                     <br><br>
                     <div class=panel-body>
                         <div class="table-responsive">
-                            <table class="table table-bordered table-striped">
+                            <table style="width: 100%" id="myTable" class="table table-bordered table-striped">
+                            <thead>
                                 <tr class="tableheaders">
-                                    <th scope="col">company</th>
-                                    <th scope="col">item code</th>
-                                    <th scope="col">alt code</th>
-                                    <th scope="col">item</th>
-                                    <th scope="col">item cost</th>
-                                    <th scope="col">quantity</th>
-                                    <th scope="col">cost type</th>
-                                    <th scope="col">unit cost</th>
+                                    <th span="1" style="width: 10%" scope="col">company</th>
+                                    <th span="1" style="width: 10%" scope="col">item code</th>
+                                    <th span="1" style="width: 10%" scope="col">alt code</th>
+                                    <th span="1" style="width: 10%" scope="col">item</th>
+                                    <th span="1" style="width: 10%" scope="col">item cost</th>
+                                    <th span="1" style="width: 10%" scope="col">quantity</th>
+                                    <th span="1" style="width: 10%" scope="col">cost type</th>
+                                    <th span="1" style="width: 10%" scope="col">unit cost</th>
                                 </tr>
-                            @foreach ($data as $line)
-                            <tr>
-                                <td>{{$data->company}}</td>
-                                <td>{{$data->item_code}}</td>
-                                <td>{{$data->item_code_2}}</td>
-                                <td>{{$data->item}}</td>
-                                <td>{{$data->item_cost}}</td>
-                                <td>{{$data->quantity}}</td>
-                                <td>{{$data->cost_type}}</td>
-                                <td>{{$data->unit_cost}}</td>
+                            </thead>
+                            <tbody>
+                                <script type="text/javascript">
 
-                            </tr>
-                                @endforeach
-                        </table>
+                                // $(function () {
+                                //     var table = $('.table').DataTable({
+                                //         "processing": true,
+                                //         "serverSide": true,
+                                //         "ajax": '{{ route('recent') }}',
+                                //         "columns": [
+                                //             {data: $data.company, name: 'Company'},
+                                //             {data: $data.item_code, name: 'Code'},
+                                //             {data: $data.item_code_2, name: 'Alt Code'},
+                                //             {data: $data.item, name: 'Item'},
+                                //             {data: $data.item_cost, name: 'Cost'},
+                                //             {data: $data.quantity, name: 'Qty'},
+                                //             {data: $data.cost_type, name: 'Type'},
+                                //             {data: $data.unit_cost, name: 'Unit Cost'},                                    ]
+                                //     });
+                                // } );
+                                
+
+                                </script>
+                                    @if ($data)
+                                        @foreach ($data as $line)
+                                            <tr>
+                                                <td>{{$line->company}}</td>
+                                                <td>{{$line->item_code}}</td>
+                                                <td>{{$line->item_code_2}}</td>
+                                                <td>{{$line->item}}</td>
+                                                <td>{{$line->item_cost}}</td>
+                                                <td>{{$line->quantity}}</td>
+                                                <td>{{$line->cost_type}}</td>
+                                                <td>{{$line->unit_cost}}</td>
+                                            </tr>
+                                        @endforeach
+                                    @endif
+                            </tbody>
+                            </table>
+
+                                <!-- @foreach ($data as $line)
+                                <tr>
+                                    <td>{{$line->company}}</td>
+                                    <td>{{$line->item_code}}</td>
+                                    <td>{{$line->item_code_2}}</td>
+                                    <td>{{$line->item}}</td>
+                                    <td>{{$line->item_cost}}</td>
+                                    <td>{{$line->quantity}}</td>
+                                    <td>{{$line->cost_type}}</td>
+                                    <td>{{$line->unit_cost}}</td>
+
+                                </tr>
+                                    @endforeach -->
                         </div>
                     </div>
-
-                    </div>
+                </div>
             </div>
         </div>
-</div>
+
         <div class="col-md-1"></div>
+                            
+    </div>
     @endsection

@@ -7,6 +7,14 @@
  * Copyright 2011-2021 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+
+.table-company {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 60%;
+}
+
  #file.form-control {
     width:50%;
     min-width:50% !important;

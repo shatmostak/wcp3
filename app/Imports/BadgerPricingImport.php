@@ -10,7 +10,7 @@ use Maatwebsite\Excel\Concerns\WithMultipleSheets;
 use Maatwebsite\Excel\Concerns\SkipsUnknownSheets;
 use Maatwebsite\Excel\Concerns\WithStartRow;
 
-class BadgerPricingImport implements ToModel, SkipsEmptyRows, WithMultipleSheets,
+class BadgerPricingImport implements ToModel, SkipsEmptyRows,
     withHeadingRow, WithCustomCsvSettings, WithStartRow
 {
 
@@ -21,13 +21,6 @@ class BadgerPricingImport implements ToModel, SkipsEmptyRows, WithMultipleSheets
     * @return \Illuminate\Database\Eloquent\Model|null
     */
 
-
-    function sheets(): array
-    {
-        return [
-            0 => $this,
-        ];
-    }
     function startRow(): int
     {
         return 8;
@@ -46,7 +39,7 @@ class BadgerPricingImport implements ToModel, SkipsEmptyRows, WithMultipleSheets
 
             if (floatval($row['skid_quantity'])>1) {
                 return new VendorPricing([
-                    'company' => 'badger',
+                    'company' => 'BADGER_DAYLIGHTING_CORP',
                     'item_code' => strval($row['part']),
                     'item_code_2' => $row['model'],
                     'item' => $row['description'],
