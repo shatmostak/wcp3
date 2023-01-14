@@ -25,29 +25,32 @@ use Illuminate\Support\Facades\Cache;
 use Illuminate\Support\Facades\Storage;
 use Illuminate\Support\Facades\Input;
 
-
-class ImportController extends Controller
+class ImportControllerCopyThree extends Controller
 {
+
     public $arr_upload_data_to_import;
     public $company;
+    public function getCompany(Request $request) {
 
-    public function upload(Request $request) {
-        //saves upload locally
+        // $path = Storage::putFile('uploads', $request->file('uploadFile'));
         $file = $request->file('uploadFile');
-        $name = $file->getClientOriginalName();
-        $move = $file->move('uploads', $name);
-        dd('stop');
-
-        // if no file is selected stays on homepage
+        $filefile = $request->file('uploadFile')->storePublicly('uploads');
+        // $retrievefile = Storage::files($path);
+        // $retrievefiles = Storage::allFiles($path);
+        $thefile = Storage::disk('local')->put('upload', $request->file('uploadFile'));
+// 
+        // if no file is selected stay on home
         if(!$file) {
             $nocompany = true;
             return redirect()->route('importhome');
         }
-        // if file is selected will get and save company if possible
+        // if file is selected will get and save company as variable for upload
         try {
-            // $importarray = Excel::ToArray(new VendorPricing, $file);
+            $importarray = Excel::ToArray(new VendorPricing, $file);
             $importfilepath = $_FILES['uploadFile']['tmp_name'];
+            Cache::put('filefile', $filefile);
             $firstrow = $importarray[0][0];
+
 
         } catch (exception $error) {
             return redirect()->route('importhome');
@@ -94,13 +97,176 @@ class ImportController extends Controller
                 break;
         }
 
-        // setting up company verification
-        $nocompany = false;
+        switch ($company) {
+            case 'AZ BATTERY':
+                try
+                {
+                    $data = Excel::import(new AzbatteryPricingImport, $file);
+                    dd($data);
+                }
+                catch (\Throwable $th)
 
-        // sending to company verification page
-        Cache::put('company', $company);
-        Cache::put('nocompany', $nocompany);
-        return view('import.confirm-company', compact(['company', 'nocompany']));
+                {
+                    $data = $th;
+                    $dataerror = $th;
+                }
+                break;
+
+            case 'bavco':
+                try
+                {
+                    $data = Excel::import(new BavcoPricingImport, $importarray);
+                }
+                catch (\Throwable $th)
+                {
+                    $dataerror = $th;
+                }
+                break;
+            case 'siemens':
+                try
+                {
+                    $data = Excel::import(new SiemensPricingImport, $importarray);
+                }
+                catch (\Throwable $th)
+                {
+                    $dataerror = $th;
+                }
+                break;
+            case 'amerex':
+                try
+                {
+                    $data = Excel::import(new AmerexPricingImport, $importarray);
+                    $data2 = Excel::import(new AmerexPricingImportTwo, $importarray);
+                }
+                catch (\Throwable $th)
+                {
+                    $dataerror = $th;
+                }
+                break;
+            case 'badger':
+                try
+                {
+                    $data = Excel::import(new BadgerPricingImport, $importarray);
+                }
+                catch (\Throwable $th)
+                {
+                    $dataerror = $th;
+                }
+                break;
+
+            case 'buckeye':
+                try
+                {
+                    $data = Excel::import(new BuckeyePricingImport, $importarray);
+                }
+                catch (\Throwable $th)
+                {
+                    $dataerror = $th;
+                }
+                break;
+            case 'farenhyt-silver':
+                try
+                {
+                    $data = Excel::import(new FarenhytSilverPricingImport, $importarray);
+                }
+                catch (\Throwable $th)
+                {
+                    $dataerror = $th;
+                }
+                break;
+            case 'gamewell-silver':
+                try
+                {
+                    $data = Excel::import(new GamewellSilverPricingImport, $importarray);
+                }
+                catch (\Throwable $th)
+                {
+                    $dataerror = $th;
+                }
+                break;
+            case 'rangeguard':
+                try
+                {
+                    $data = Excel::import(new RangeguardPricingImport, $importarray);
+                }
+                catch (\Throwable $th)
+                {
+                    $dataerror = $th;
+                }
+                break;
+
+            case 'brecco':
+                try
+                {
+                    $data = Excel::import(new BreccoPricingImport, $importarray);
+                }
+                catch (\Throwable $th)
+                {
+                    $dataerror = $th;
+                }
+                break;
+            case 'pyrochem':
+                try
+                {
+                    $data = Excel::import(new PyrochemPricingImport, $importarray);
+                }
+                catch (\Throwable $th)
+                {
+                    $dataerror = $th;
+                }
+                break;
+
+            case 'hughes':
+                try
+                {
+                    $data = Excel::import(new HughesPricingImport, $importarray);
+                }
+                catch (\Throwable $th)
+                {
+                    $dataerror = $th;
+                }
+                break;
+            case 'farenhyt-gold':
+                try
+                {
+                    $data = Excel::import(new FarenhytGoldPricingImport, $importarray);
+                }
+                catch (\Throwable $th)
+                {
+                    $dataerror = $th;
+                }
+                break;
+            case 'ferguson':
+                try
+                {
+                    $data = Excel::import(new FergusonPricingImport, $importarray);
+                }        
+                catch (\Throwable $th)
+                {
+                    $dataerror = $th;
+                }
+                break;
+            case 'gamewell-gold':
+                try
+                {
+                    $data = Excel::import(new GamewellGoldPricingImport, $importarray);
+                }
+                catch (\Throwable $th)
+                {
+                    $dataerror = $th;
+                }
+                break;
+            case null:
+                break;
+        }
+
+            // $dbview = DB::table('costs')->orderBy('created_at', 'DESC')->limit(50)->get();
+            $datastatus = "import - upload to database was successful!";
+            // 
+            $dbview = [];
+            // return view('import.import-results', compact(['datastatus', 'dbview']));
+            return view('import.import-results', compact(['datastatus', 'dbview', 'company']));
+
 
     }
 
@@ -108,25 +274,21 @@ class ImportController extends Controller
     {
 
         $company = Cache::get('company');
-        $nocompany = Cache::get('nocompany');
+        $data = null;
         $req = $request->all();
+
         if (array_key_exists('cancel', $req)) {
             $company = null;
             $nocompany = true;
             return view('import.confirm-company', compact(['company', 'nocompany']));
         } 
-        $thefile = Storage::get('upload');
-        dd(Storage::disk('local')->get('upload'));
-
-            dd($thefile);
+        
+        $filefile = Cache::get('filefile');
             switch ($company) {
                 case 'AZ BATTERY':
                     try
                     {
                         $data = Excel::import(new AzbatteryPricingImport, $filefile);
-                        dd('made it this far');
-
-                        dd($data);
                     }
                     catch (\Throwable $th)
 

@@ -1,9 +1,13 @@
-@php
-@endphp
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 
 <head>
+<php>
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+</php>
+
     <meta charset="utf-8">
     <title>{{ config('app.name', 'Laravel') }}</title>
     <link href="{{ asset('/css/app.css') }}" rel="stylesheet">
@@ -35,8 +39,11 @@
                     Warehouse Cost Project
             </a>
         <div class="navbar-nav ms-auto">
-            {{-- <a href="/cost" class="nav-item mr-auto nav-link table-header">Price Table</a> --}}
+            <a href="{{ route('recent-db') }}" class="nav-item mr-auto nav-link table-header">Create Price Quote</a>
+            <a href="{{ route('recent-db') }}" class="nav-item mr-auto nav-link table-header">Price Table</a>
             <a href="{{ route('importhome') }}" class="nav-item mr-auto nav-link import-header">Import</a>
+            <!-- <a href="{{ route('importhome') }}" class="nav-item mr-auto nav-link import-header">View Price Updates</a> -->
+            <a href="{{ route('file-export') }}" class="nav-item mr-auto nav-link import-header">Export</a>
         </div>
     </div>
 </nav>
@@ -47,7 +54,9 @@
 
 @yield('dbshow')
 </div>
-
+<!-- <php>
+phpinfo();
+</php> -->
 </body>
 
 </html>
