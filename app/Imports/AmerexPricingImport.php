@@ -30,7 +30,6 @@ class AmerexPricingImport implements ToModel, SkipsEmptyRows, WithMultipleSheets
 
 
     public function model(array $row) {
-
         if ($row[8]>1) {
             $entry = new VendorPricing([
                 'company' => 'AMEREX',

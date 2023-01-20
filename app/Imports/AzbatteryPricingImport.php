@@ -19,7 +19,10 @@ class AzbatteryPricingImport implements ToModel
                 'company' => 'AZ_BATTERY_STORE',
                 'item' => strval($row[0] . " " . $row[1]),
                 'item_code' => strval($row[0] . " " . $row[1]),
-                'item_cost' => floatval( $row[3])
+                'item_cost' => floatval( $row[3]),
+                'quantity' => 1,
+                'cost_type' => 'EA',
+                'unit_cost' => floatval( $row[3])
             ]);
         }
 

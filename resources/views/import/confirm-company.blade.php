@@ -16,7 +16,6 @@
                         <button class="btn btn-danger btn-rounded" type="submit" name="import" value="import">Yes, Begin Import</button>
                         <button class="btn btn-secondary btn-rounded" type="submit" name="cancel" value="cancel">No, Company is Incorrect</button>
                     </form>
-                @elseif ($nocompany)
                     <h4> which vendor is this for?</h4>
                     <div class="choose">
                     <form action={{ route( 'file-import' )}} method="POST" enctype="multipart/form-data" contentType='application/json' id='companyselect'>

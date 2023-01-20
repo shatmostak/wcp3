@@ -56,17 +56,6 @@ class NavController extends Controller
             # code...
         }
         $displayresult = $result->fetch_assoc();
-
-
-        // if ($result->num_rows > 0) {
-        //     // output data of each row
-        //     while($row = $result->fetch_assoc()) {
-        //         echo "id: " . $row["id"]. " - company: " . $row["company"]. " - item: " . $row["item"]. "<br>";
-        //     }
-        //     } else {
-        //     echo "0 results";
-        // }
-        // var_dump($result);
         $conn->close();
     }
 

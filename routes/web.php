@@ -15,10 +15,12 @@ Route::post('/upload', [ImportController::class, 'upload'])->name('upload');
 Route::post('/confirmcompany', [ImportController::class, 'confirmCompany'])->name('confirm-company');
 Route::post('/fileimport', [ImportController::class, 'fileImport'])->name('file-import');
 // Route::post('/', [FileController::class, 'verifyFiles'])->name('verify-files');
-Route::get('/recent-db', [ImportController::class, 'recentDbUpdates'])->name('recent-db');
+Route::get('/makeList', [ImportController::class, 'makeList'])->name('make-list');
+Route::post('/updateList', [ImportController::class, 'updateList'])->name('update-list');
 Route::post('file-export', [ExportController::class, 'fileExport'])->name('file-export');
 Route::get('/recent', [ImportController::class, 'recent'])->name('recent');
 Route::get('/uploadstatus', [ImportController::class, 'uploadStatus'])->name('upload-status');
+Route::get('/view-admin', [ImportController::class, 'viewAdmin'])->name('view-admin');
 
 
 // Route::get('/import-home', [NavController::class, 'importHome'])->name('importhome');

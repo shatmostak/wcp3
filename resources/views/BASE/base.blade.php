@@ -50,32 +50,28 @@ error_reporting(E_ALL); -->
 <body>
     <!-- Image and text -->
 
-<nav class="navbar navbar-expand-lg navbar-dark bg-secondary " style="position:fixed; top:0px; width:100%;">
+<nav class="navbar navbar-expand-lg navbar-dark bg-secondary " style="position:fixed; top:0px; width:100%; background:black; z-index:6">
     <div class="container-fluid">
-            <a class="navbar-brand" href="/">
+            <a class="navbar-brand" href="{{ route('importhome') }}"> 
                 <img src="{{ asset('/images/icons8-warehouse-96.png') }}" width="30" height="30" class="d-inline-block align-top" alt="">
                 <img src="{{ asset('/images/icons8-purchase-for-euro-48.png') }}" width="30" height="30" class="d-inline-block align-top" alt="">
-                    Warehouse Cost Project
+                Warehouse Cost Project
             </a>
         <div class="navbar-nav ms-auto">
-            <!-- <a href="{{ route('recent-db') }}" class="nav-item mr-auto nav-link table-header">Create Price Quote</a> -->
-            <a href="{{ route('recent-db') }}" class="nav-item mr-auto nav-link table-header">Price Table</a>
+            <a href="#" class="nav-item mr-auto nav-link table-header">Create Quote</a>
+            <a href="{{ route('make-list') }}" class="nav-item mr-auto nav-link price-header">View Prices</a>
             <a href="{{ route('importhome') }}" class="nav-item mr-auto nav-link import-header">Import</a>
-            <!-- <a href="{{ route('importhome') }}" class="nav-item mr-auto nav-link import-header">View Price Updates</a> -->
-            <!-- <a href="{{ route('file-export') }}" class="nav-item mr-auto nav-link import-header">Export</a> -->
+            <a href="#" class="nav-item mr-auto nav-link export-header">Export</a> 
+            <a href="{{ url('../adminer-4.8.1-mysql.php?db=test&username=root&select=costs') }}" class="nav-item mr-auto nav-link admin-header">Admin</a>
         </div>
     </div>
-</nav>
-<div class="belowheaders">
-@yield('content')
-
-<!-------------------------------------------------------------------------------->
-
-@yield('recent')
-</div>
-<!-- <php>
-phpinfo();
-</php> -->
-</body>
+    </nav>
+        <div class="belowheaders">
+            @yield('content')
+            @yield('recent')
+            @yield('results')
+            @yield('view-admin')
+        </div>
+    </body>
 
 </html>
