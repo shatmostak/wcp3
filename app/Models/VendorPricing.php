@@ -34,12 +34,13 @@ class VendorPricing extends Model
         'company',
         'item',
         'item_code',
+        'item_code_2',
         'quantity',
         'item_cost',
         'cost_type',
         'unit_cost',
-        'created_at',
-        'updated_at'
+        'extra_cost_2',
+        'extra_cost_3'
     ];
 
     /**
@@ -52,10 +53,13 @@ class VendorPricing extends Model
         'company' => 'string',
         'item' => 'string',
         'item_code' => 'string',
+        'item_code_2' => 'string',
         'quantity' => 'integer',
         'item_cost' => 'decimal:2',
         'cost_type' => 'string',
-        'unit_cost' => 'decimal:2'
+        'unit_cost' => 'decimal:2',
+        'extra_cost_2' => 'decimal:2',
+        'extra_cost_3' => 'decimal:2'
     ];
 
     /**

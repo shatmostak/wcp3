@@ -33,14 +33,14 @@
                                     <option value="ferguson">Ferguson</option>
                                     <option value="gamewell-gold">Gamewell Gold</option>
                                     <option value="gamewell-silver">Gamewell Silver</option>
-                                    {{-- <option FCI="hughes">Hughes - DNU IN PROG</option> --}}
                                     <option value="pyrochem">Pyrochem</option>
                                     <option value="rangeguard">Range Guard</option>
                                     <option value="siemens">Siemens</option>
-                                    <option style="font-family:verdana bold !important; font-style:oblique !important;" class='userinput' value="userinput">custom upload</option>
+                                    <!-- !MATT! ]
+                                    hughes company pdf still not readable-->
+                                    <!-- <option style="font-family:verdana bold !important; font-style:oblique !important;" class='userinput' value="userinput">custom upload</option> -->
                                 </select>
                                 <br><br>
-
                                 <input class="form-control" type="file" id="formFile" name="file">
                                 <br><br>
 

@@ -15,31 +15,28 @@ use Maatwebsite\Excel\Concerns\WithLimit;
 use Maatwebsite\Excel\Concerns\WithMapping;
 use Maatwebsite\Excel\Facades\Excel;
 
-class CostsExport implements FromCollection, WithCustomCsvSettings, WithHeadings, WithMapping {
+class CostsSQLExport implements FromCollection, WithCustomCsvSettings, WithHeadings, WithMapping {
 
     public function getCsvSettings(): array
     {
         return [
-            'delimiter' => "\t"
+            'delimiter' => ","
         ];
     }
 
     public function headings(): array
     {
         return [
-            "Item ID",
-            "warehouse",
-            "salesuom",
-            "price",
-            "costVendor",
-            "costFreight",
-            "costOverhead",
-            "costLabor",
-            "costBurden",
-            "costContract",
-            "costOther",
-            "costeffdate",
-            "item",
+            'company',
+            'item',
+            'item_code',
+            'item_code_2',
+            'quantity',
+            'item_cost',
+            'cost_type',
+            'unit_cost',
+            'extra_cost_2',
+            'extra_cost_3'
         ];
     }
 
@@ -65,24 +62,5 @@ class CostsExport implements FromCollection, WithCustomCsvSettings, WithHeadings
         }
         return $collection;
     }
-    public function map($collection): array
-    {
-        $map = [
-            $collection->item_code,
-            "Gilbert",
-            $collection->cost_type,
-            $collection->item_cost,
-            $collection->company,
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            $collection->updated_at,
-            $collection->item
-        ];
-        return $map;
 
-    }
 }

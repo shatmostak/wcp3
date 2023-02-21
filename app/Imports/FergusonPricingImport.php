@@ -2,10 +2,9 @@
 namespace App\Imports;
 use App\Models\VendorPricing;
 use Maatwebsite\Excel\Concerns\ToModel;
-use Maatwebsite\Excel\Concerns\WithCustomCsvSettings;
 use Maatwebsite\Excel\Concerns\WithStartRow;
 
-class FergusonPricingImport implements ToModel, WithStartRow, WithCustomCsvSettings
+class FergusonPricingImport implements ToModel, WithStartRow
 {
 
     /**
@@ -19,11 +18,6 @@ class FergusonPricingImport implements ToModel, WithStartRow, WithCustomCsvSetti
    function startRow(): int
    {
        return 5;
-   }
-   function  getCsvSettings(): array {
-       return [
-           'delimiter' => ","
-       ];
    }
 
     public function model(array $row) {

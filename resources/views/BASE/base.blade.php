@@ -37,8 +37,9 @@ error_reporting(E_ALL); -->
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     
     <!-- datatables -->
-    <!-- <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.1/css/jquery.dataTables.css">
-    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.13.1/js/jquery.dataTables.js"></script> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.13.2/datatables.min.css"/>
+ 
+    <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.13.2/datatables.min.js"></script>
 
 
     <style>
@@ -58,19 +59,22 @@ error_reporting(E_ALL); -->
                 Warehouse Cost Project
             </a>
         <div class="navbar-nav ms-auto">
-            <a href="#" class="nav-item mr-auto nav-link table-header">Create Quote</a>
+            <!-- <a href="#" class="nav-item mr-auto nav-link table-header">Create Quote</a> -->
             <a href="{{ route('make-list') }}" class="nav-item mr-auto nav-link price-header">View Prices</a>
             <a href="{{ route('importhome') }}" class="nav-item mr-auto nav-link import-header">Import</a>
-            <a href="#" class="nav-item mr-auto nav-link export-header">Export</a> 
+            <a href="{{ route('exporthome') }}" class="nav-item mr-auto nav-link export-header">Export</a> 
+            <a href="{{ route('datatables') }}" class="nav-item mr-auto nav-link datatables-header">DataTables</a> 
+
             <a href="{{ url('../adminer-4.8.1-mysql.php?db=test&username=root&select=costs') }}" class="nav-item mr-auto nav-link admin-header">Admin</a>
         </div>
     </div>
     </nav>
         <div class="belowheaders">
             @yield('content')
-            @yield('recent')
+            @yield('viewcosts')
             @yield('results')
             @yield('view-admin')
+            @yield('datatables')
         </div>
     </body>
 
